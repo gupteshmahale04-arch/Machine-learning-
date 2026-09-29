@@ -45,9 +45,8 @@ The dataset consists of **4,345 records** across **9 features** sourced from use
 3. **Target Transformation (Log Transformation):**
    - The original `Price` variable exhibited strong positive skewness.
    - Applied natural logarithm transformation:
-     $$\text{Log\_price} = \ln(\text{Price})$$
+     `$$\text{Log\_price} = \ln(\text{Price})$$`
    - Reduced heteroscedasticity and aligned the target distribution closer to normality.
-   - 
 
 4. **Dimensionality & High-Cardinality Management:**
    - Dropped `Model` (300+ unique classes) to avoid sparse matrices and excessive dummy variables.
