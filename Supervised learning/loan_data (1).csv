@@ -1,0 +1,1001 @@
+applicant_id,age,annual_income,loan_amount,monthly_emi,credit_score,existing_loans,city,education,employment_type,has_property,loan_status
+IND1000,50,372619,246324,34598.0,572.0,0,Kolkata,Graduate,Salaried,0,Approved
+IND1001,36,512306,302698,31961.0,780.0,4,Delhi,Graduate,Salaried,1,Rejected
+IND1002,29,309749,112456,14602.0,715.0,0,Bangalore,Graduate,Self-Employed,1,Approved
+IND1003,42,844535,1008733,11256.0,805.0,1,Bangalore,Not Graduate,Salaried,0,Approved
+IND1004,40,474162,394772,22584.0,723.0,3,Delhi,Not Graduate,Business Owner,0,Approved
+IND1005,44,259281,254005,36681.0,706.0,0,Mumbai,Graduate,Freelancer,0,Rejected
+IND1006,32,620788,99794,27792.0,867.0,2,Kolkata,Graduate,Freelancer,1,Approved
+IND1007,32,420012,63840,23904.0,689.0,0,Pune,Not Graduate,Salaried,0,Rejected
+IND1008,45,425819,146437,36540.0,641.0,3,Bangalore,Not Graduate,Business Owner,0,Approved
+IND1009,57,382408,399781,28536.0,792.0,4,Bangalore,Graduate,Self-Employed,1,Approved
+IND1010,45,394875,128448,21164.0,491.0,4,Mumbai,Graduate,Salaried,0,Rejected
+IND1011,24,699874,243891,14996.0,798.0,3,Bangalore,Graduate,Self-Employed,0,Approved
+IND1012,43,163471,375439,4871.0,532.0,1,Hyderabad,Graduate,Business Owner,1,Approved
+IND1013,23,282804,78556,24626.0,526.0,1,Bangalore,Graduate,Salaried,1,Approved
+IND1014,45,151402,339032,12521.0,670.0,4,Kolkata,Graduate,Salaried,1,Approved
+IND1015,51,679745,74092,3132.0,438.0,4,Bangalore,Graduate,Salaried,1,Approved
+IND1016,59,247147,889030,35467.0,448.0,3,Delhi,Graduate,Self-Employed,1,Rejected
+IND1017,23,1030885,217550,16534.0,414.0,1,Chennai,Graduate,Salaried,1,Approved
+IND1018,42,419107,90828,25854.0,749.0,4,Mumbai,Not Graduate,Freelancer,0,Approved
+IND1019,54,765277,154783,9812.0,362.0,1,Delhi,Not Graduate,Self-Employed,0,Approved
+IND1020,33,1663989,183360,6557.0,403.0,4,Delhi,Graduate,Self-Employed,1,Approved
+IND1021,43,852505,404895,4179.0,572.0,0,Delhi,Not Graduate,Salaried,0,Approved
+IND1022,46,926943,390082,11065.0,305.0,2,Chennai,Not Graduate,Self-Employed,1,Rejected
+IND1023,48,329688,286649,10275.0,446.0,0,Bangalore,Graduate,Salaried,1,Approved
+IND1024,49,440937,77993,37948.0,483.0,4,Chennai,Graduate,Salaried,0,Approved
+IND1025,37,237152,91091,22700.0,327.0,2,Bangalore,Not Graduate,Self-Employed,0,Approved
+IND1026,36,207318,74611,29794.0,849.0,2,Delhi,Not Graduate,Salaried,0,Approved
+IND1027,24,401689,265197,30783.0,418.0,4,Chennai,Not Graduate,Self-Employed,1,Rejected
+IND1028,58,481595,574174,18998.0,592.0,4,Mumbai,Not Graduate,Salaried,1,Approved
+IND1029,28,285764,192202,15869.0,670.0,1,Mumbai,Graduate,Salaried,1,Approved
+IND1030,42,457070,93840,30152.0,543.0,4,Bangalore,Graduate,Salaried,0,Approved
+IND1031,30,993780,254135,22954.0,879.0,3,Delhi,Graduate,Freelancer,1,Approved
+IND1032,39,445422,467499,33555.0,517.0,4,Mumbai,Graduate,Self-Employed,1,Approved
+IND1033,25,630349,388420,18654.0,,3,Hyderabad,Graduate,Self-Employed,0,Approved
+IND1034,46,774548,583106,37236.0,598.0,4,Bangalore,Graduate,Salaried,1,Rejected
+IND1035,35,1914201,131398,17042.0,357.0,1,Delhi,Graduate,Salaried,1,Rejected
+IND1036,30,489726,103903,27966.0,568.0,3,Kolkata,Not Graduate,Freelancer,0,Approved
+IND1037,47,777715,579683,16270.0,607.0,0,Bangalore,Graduate,Salaried,1,Approved
+IND1038,23,1434961,317914,32908.0,869.0,3,Pune,Graduate,Salaried,0,Approved
+IND1039,41,1275898,143102,17523.0,587.0,1,Mumbai,Graduate,Self-Employed,1,Rejected
+IND1040,49,180832,389036,21991.0,404.0,3,Bangalore,Graduate,Salaried,0,Rejected
+IND1041,28,328614,472009,12775.0,527.0,4,Pune,Not Graduate,Business Owner,1,Approved
+IND1042,29,276619,288613,14265.0,546.0,4,Bangalore,Not Graduate,Self-Employed,1,Approved
+IND1043,56,156374,341095,21459.0,793.0,1,Hyderabad,Not Graduate,Salaried,1,Approved
+IND1044,35,521219,167604,18673.0,382.0,2,Delhi,Graduate,Salaried,1,Approved
+IND1045,38,652577,243424,29056.0,485.0,4,Mumbai,Graduate,Salaried,1,Approved
+IND1046,57,873887,235667,8614.0,551.0,0,Bangalore,Graduate,Business Owner,1,Approved
+IND1047,25,172397,521047,,654.0,1,Delhi,Graduate,Self-Employed,1,Approved
+IND1048,23,956424,508089,9415.0,,3,Pune,Not Graduate,Salaried,1,Approved
+IND1049,27,531924,496962,25155.0,746.0,3,Mumbai,Not Graduate,Salaried,1,Approved
+IND1050,25,606885,52773,18964.0,759.0,0,Kolkata,Not Graduate,Self-Employed,1,Approved
+IND1051,50,1085961,396119,39726.0,771.0,4,Kolkata,Graduate,Self-Employed,1,Approved
+IND1052,39,512077,405404,39044.0,669.0,1,Mumbai,Not Graduate,Salaried,1,Approved
+IND1053,47,283708,333595,39544.0,791.0,0,Delhi,Graduate,Salaried,1,Approved
+IND1054,55,817433,402918,34252.0,436.0,4,Pune,Not Graduate,Salaried,0,Approved
+IND1055,31,300431,511243,5832.0,666.0,1,Kolkata,Graduate,Self-Employed,0,Approved
+IND1056,57,133931,208870,27275.0,483.0,3,Delhi,Graduate,Freelancer,0,Approved
+IND1057,35,830325,224314,16901.0,887.0,1,Delhi,Graduate,Salaried,1,Approved
+IND1058,52,289365,83301,36148.0,586.0,2,Bangalore,Not Graduate,Self-Employed,0,Approved
+IND1059,36,714595,171686,24918.0,771.0,1,Hyderabad,Graduate,Salaried,1,Approved
+IND1060,29,300242,307760,21540.0,674.0,2,Delhi,Graduate,Salaried,1,Approved
+IND1061,35,909508,428986,13580.0,836.0,1,Hyderabad,Not Graduate,Salaried,0,Approved
+IND1062,44,219133,111222,26917.0,810.0,2,Mumbai,Graduate,Business Owner,1,Approved
+IND1063,42,1588372,87073,24318.0,878.0,3,Mumbai,Graduate,Salaried,0,Approved
+IND1064,37,725212,321949,12179.0,549.0,4,Delhi,Graduate,Self-Employed,0,Approved
+IND1065,39,168522,50470,14251.0,809.0,2,Delhi,Graduate,Salaried,1,Approved
+IND1066,45,453678,99117,21493.0,372.0,2,Delhi,Not Graduate,Salaried,1,Approved
+IND1067,47,1809798,57375,22466.0,581.0,3,Bangalore,Not Graduate,Salaried,1,Approved
+IND1068,46,374756,95645,32206.0,659.0,2,Delhi,Graduate,Self-Employed,0,Approved
+IND1069,50,200409,100015,21624.0,309.0,0,Mumbai,Not Graduate,Salaried,1,Rejected
+IND1070,36,385263,172622,28564.0,510.0,3,Delhi,Graduate,Self-Employed,0,Approved
+IND1071,22,407351,178677,24412.0,451.0,0,Kolkata,Graduate,Salaried,0,Approved
+IND1072,46,661433,568389,29990.0,304.0,3,Delhi,Graduate,Salaried,0,Approved
+IND1073,28,600053,228393,37517.0,494.0,2,Delhi,Graduate,Salaried,0,Rejected
+IND1074,30,326033,371300,15156.0,582.0,0,Bangalore,Graduate,Salaried,0,Approved
+IND1075,45,218372,77492,25064.0,763.0,2,Kolkata,Not Graduate,Salaried,0,Approved
+IND1076,22,534316,113864,27711.0,412.0,3,Mumbai,Not Graduate,Salaried,1,Rejected
+IND1077,29,339067,353458,32106.0,570.0,2,Hyderabad,Graduate,Self-Employed,0,Approved
+IND1078,45,176752,63562,18589.0,462.0,0,Hyderabad,Graduate,Self-Employed,0,Rejected
+IND1079,32,1043329,216673,25736.0,759.0,0,Bangalore,Not Graduate,Salaried,0,Rejected
+IND1080,38,590052,278678,22975.0,404.0,2,Mumbai,Not Graduate,Salaried,1,Approved
+IND1081,29,579773,280417,38218.0,855.0,1,Hyderabad,Not Graduate,Salaried,0,Approved
+IND1082,56,811702,55799,9214.0,581.0,3,Mumbai,Graduate,Salaried,1,Approved
+IND1083,56,421721,147191,32581.0,461.0,3,Bangalore,Not Graduate,Salaried,1,Approved
+IND1084,54,795077,302987,22195.0,650.0,2,Hyderabad,Graduate,Business Owner,0,Approved
+IND1085,26,395734,90335,29127.0,733.0,1,Mumbai,Graduate,Salaried,1,Approved
+IND1086,49,147815,347201,7141.0,439.0,0,Chennai,Graduate,Salaried,0,Approved
+IND1087,28,327844,392531,30884.0,770.0,4,Mumbai,Graduate,Salaried,1,Approved
+IND1088,30,395235,1053918,26885.0,431.0,4,Chennai,Graduate,Salaried,1,Approved
+IND1089,29,629475,108880,4708.0,386.0,2,Bangalore,Graduate,Self-Employed,0,Approved
+IND1090,33,165078,485929,20375.0,482.0,1,Mumbai,Graduate,Salaried,0,Approved
+IND1091,55,180337,233646,,667.0,1,Mumbai,Not Graduate,Salaried,1,Approved
+IND1092,54,242438,166886,12014.0,428.0,3,Kolkata,Graduate,Self-Employed,1,Approved
+IND1093,44,243970,82634,5273.0,545.0,0,Mumbai,Graduate,Salaried,0,Approved
+IND1094,45,646982,382483,39306.0,877.0,1,Mumbai,Graduate,Self-Employed,1,Approved
+IND1095,58,235462,117250,32881.0,677.0,4,Delhi,Not Graduate,Self-Employed,1,Rejected
+IND1096,56,521064,166073,33486.0,448.0,0,Bangalore,Graduate,Salaried,1,Approved
+IND1097,43,392703,66145,,732.0,0,Bangalore,Graduate,Self-Employed,0,Approved
+IND1098,48,460664,454073,10712.0,768.0,2,Mumbai,Graduate,Salaried,1,Approved
+IND1099,56,848327,413738,11168.0,745.0,1,Delhi,Not Graduate,Self-Employed,1,Approved
+IND1100,22,327261,380703,5551.0,780.0,2,Mumbai,Not Graduate,Salaried,0,Approved
+IND1101,56,709458,138970,14297.0,593.0,1,Mumbai,Graduate,Salaried,1,Approved
+IND1102,58,339297,97632,29128.0,442.0,3,Delhi,Graduate,Self-Employed,1,Approved
+IND1103,35,294702,303719,4832.0,549.0,2,Hyderabad,Not Graduate,Business Owner,1,Rejected
+IND1104,24,1394052,221377,30483.0,601.0,2,Mumbai,Graduate,Freelancer,0,Approved
+IND1105,22,201518,99080,24063.0,324.0,4,Delhi,Graduate,Self-Employed,1,Approved
+IND1106,26,157872,339519,24963.0,,2,Delhi,Graduate,Salaried,0,Rejected
+IND1107,47,709588,1231169,15422.0,411.0,1,Kolkata,Graduate,Salaried,1,Approved
+IND1108,35,148276,393808,34920.0,663.0,4,Kolkata,Graduate,Salaried,0,Approved
+IND1109,48,845795,386755,13156.0,602.0,2,Chennai,Graduate,Salaried,1,Approved
+IND1110,30,349927,800501,13108.0,770.0,2,Mumbai,Not Graduate,Salaried,1,Approved
+IND1111,36,1108466,106705,33845.0,390.0,3,Mumbai,Not Graduate,Freelancer,0,Approved
+IND1112,36,631382,258418,4800.0,829.0,2,Delhi,Graduate,Salaried,1,Approved
+IND1113,47,497058,1023628,4610.0,491.0,0,Delhi,Not Graduate,Salaried,1,Rejected
+IND1114,34,1312785,95168,14067.0,851.0,4,Bangalore,Graduate,Salaried,0,Rejected
+IND1115,53,322102,351203,35872.0,541.0,0,Chennai,Graduate,Business Owner,1,Rejected
+IND1116,53,1352402,270357,12728.0,437.0,4,Pune,Graduate,Self-Employed,1,Rejected
+IND1117,25,178010,270761,31566.0,644.0,3,Chennai,Not Graduate,Self-Employed,0,Approved
+IND1118,51,384469,349059,31783.0,479.0,2,Delhi,Not Graduate,Salaried,0,Approved
+IND1119,58,245835,713450,22583.0,802.0,2,Hyderabad,Not Graduate,Business Owner,0,Approved
+IND1120,44,430474,431483,22238.0,,2,Delhi,Not Graduate,Salaried,0,Approved
+IND1121,36,190701,64443,9263.0,872.0,4,Mumbai,Graduate,Business Owner,1,Rejected
+IND1122,50,856875,528868,3914.0,491.0,2,Hyderabad,Not Graduate,Self-Employed,0,Approved
+IND1123,57,869381,113897,25749.0,304.0,0,Mumbai,Not Graduate,Salaried,1,Rejected
+IND1124,34,1362543,168267,21456.0,536.0,2,Delhi,Not Graduate,Salaried,1,Rejected
+IND1125,53,187212,204850,27582.0,610.0,3,Delhi,Graduate,Self-Employed,0,Rejected
+IND1126,28,510557,213917,2406.0,848.0,0,Hyderabad,Graduate,Salaried,1,Rejected
+IND1127,43,377162,192812,15689.0,355.0,2,Chennai,Graduate,Business Owner,1,Approved
+IND1128,49,288871,742561,34934.0,742.0,2,Delhi,Graduate,Salaried,1,Approved
+IND1129,23,293262,356060,35276.0,536.0,1,Chennai,Graduate,Salaried,0,Approved
+IND1130,27,332951,299355,38432.0,496.0,4,Delhi,Graduate,Salaried,0,Approved
+IND1131,49,608211,62781,21873.0,884.0,0,Delhi,Graduate,Salaried,1,Approved
+IND1132,49,484806,635626,15050.0,870.0,1,Hyderabad,Graduate,Salaried,1,Rejected
+IND1133,41,366238,650298,2680.0,813.0,3,Hyderabad,Graduate,Salaried,1,Rejected
+IND1134,51,151588,428774,20908.0,748.0,4,Kolkata,Graduate,Self-Employed,1,Approved
+IND1135,32,152382,51763,20504.0,659.0,0,Mumbai,Not Graduate,Salaried,0,Approved
+IND1136,49,120936,64746,23644.0,329.0,2,Hyderabad,Graduate,Freelancer,1,Approved
+IND1137,46,1493067,113795,39125.0,407.0,0,Bangalore,Graduate,Self-Employed,0,Approved
+IND1138,54,122107,85203,3363.0,744.0,2,Pune,Not Graduate,Business Owner,0,Approved
+IND1139,22,163521,177221,37060.0,737.0,4,Mumbai,Graduate,Salaried,1,Approved
+IND1140,48,271099,689766,,756.0,2,Chennai,Graduate,Salaried,0,Approved
+IND1141,34,778918,209693,38176.0,794.0,3,Bangalore,Graduate,Salaried,1,Approved
+IND1142,24,1429108,53373,27675.0,546.0,2,Delhi,Graduate,Self-Employed,1,Approved
+IND1143,27,744284,133081,20287.0,842.0,3,Bangalore,Not Graduate,Business Owner,0,Approved
+IND1144,29,589196,61404,2174.0,863.0,4,Delhi,Graduate,Salaried,1,Approved
+IND1145,48,414673,59240,28732.0,887.0,4,Bangalore,Graduate,Salaried,1,Approved
+IND1146,30,156278,130644,36998.0,738.0,0,Pune,Graduate,Business Owner,1,Approved
+IND1147,58,1389664,130607,39055.0,577.0,3,Bangalore,Graduate,Salaried,0,Rejected
+IND1148,54,688176,436764,14112.0,851.0,3,Hyderabad,Not Graduate,Self-Employed,0,Approved
+IND1149,45,527494,970571,11689.0,410.0,1,Bangalore,Graduate,Self-Employed,1,Approved
+IND1150,36,689242,165988,21555.0,684.0,1,Mumbai,Graduate,Business Owner,0,Approved
+IND1151,53,635091,190041,35919.0,490.0,1,Mumbai,Graduate,Salaried,0,Approved
+IND1152,53,525596,515743,9619.0,789.0,2,Bangalore,Graduate,Salaried,1,Rejected
+IND1153,45,1696514,128041,8033.0,725.0,1,Delhi,Graduate,Self-Employed,0,Approved
+IND1154,33,1054720,92513,6946.0,704.0,3,Mumbai,Not Graduate,Freelancer,1,Approved
+IND1155,23,536135,529483,26618.0,634.0,2,Bangalore,Not Graduate,Salaried,0,Approved
+IND1156,24,592591,61904,36675.0,508.0,4,Delhi,Not Graduate,Salaried,1,Approved
+IND1157,58,141189,291698,38258.0,321.0,0,Delhi,Not Graduate,Self-Employed,1,Approved
+IND1158,38,563365,256380,20919.0,,1,Bangalore,Not Graduate,Freelancer,0,Approved
+IND1159,23,138068,156131,6173.0,307.0,4,Mumbai,Graduate,Business Owner,0,Approved
+IND1160,23,474948,144653,28400.0,828.0,3,Pune,Not Graduate,Freelancer,1,Approved
+IND1161,49,3057574,419446,6769.0,465.0,0,Pune,Not Graduate,Salaried,1,Approved
+IND1162,44,444598,72597,39564.0,795.0,4,Hyderabad,Not Graduate,Salaried,1,Approved
+IND1163,58,376381,117553,16211.0,889.0,0,Mumbai,Graduate,Self-Employed,0,Approved
+IND1164,53,270083,379611,25255.0,728.0,1,Chennai,Graduate,Business Owner,0,Approved
+IND1165,54,171370,248695,29962.0,462.0,3,Chennai,Not Graduate,Salaried,1,Approved
+IND1166,22,645252,84238,21356.0,665.0,0,Chennai,Not Graduate,Salaried,1,Approved
+IND1167,40,205573,584555,22306.0,825.0,4,Mumbai,Not Graduate,Business Owner,1,Approved
+IND1168,23,168994,174991,6997.0,538.0,1,Hyderabad,Graduate,Salaried,1,Approved
+IND1169,47,339108,489873,19376.0,371.0,1,Chennai,Graduate,Salaried,1,Approved
+IND1170,53,754565,437454,12578.0,744.0,4,Bangalore,Graduate,Self-Employed,1,Approved
+IND1171,27,666697,294824,20624.0,808.0,4,Hyderabad,Not Graduate,Self-Employed,0,Rejected
+IND1172,53,142578,220542,2389.0,,0,Bangalore,Graduate,Self-Employed,1,Approved
+IND1173,25,362893,1022453,35767.0,714.0,2,Bangalore,Graduate,Salaried,1,Approved
+IND1174,32,415621,89153,3855.0,544.0,1,Mumbai,Not Graduate,Self-Employed,0,Approved
+IND1175,38,533744,372887,15794.0,359.0,0,Hyderabad,Graduate,Self-Employed,1,Rejected
+IND1176,59,540120,103048,37531.0,305.0,4,Mumbai,Not Graduate,Self-Employed,1,Approved
+IND1177,45,301461,153221,6986.0,869.0,0,Delhi,Graduate,Self-Employed,1,Rejected
+IND1178,26,449008,142294,34298.0,706.0,4,Delhi,Not Graduate,Salaried,1,Rejected
+IND1179,55,382388,784535,3481.0,516.0,3,Bangalore,Graduate,Salaried,1,Approved
+IND1180,27,985123,905524,5731.0,325.0,4,Mumbai,Not Graduate,Salaried,0,Rejected
+IND1181,43,422234,100533,18835.0,304.0,4,Hyderabad,Not Graduate,Salaried,1,Approved
+IND1182,32,352665,55570,29798.0,831.0,4,Chennai,Graduate,Self-Employed,1,Rejected
+IND1183,37,327331,368248,28113.0,689.0,2,Mumbai,Graduate,Business Owner,1,Approved
+IND1184,54,459852,185316,21477.0,870.0,4,Mumbai,Graduate,Self-Employed,0,Approved
+IND1185,30,771809,73259,19266.0,747.0,1,Mumbai,Not Graduate,Business Owner,0,Approved
+IND1186,27,429223,337808,22792.0,445.0,1,Pune,Not Graduate,Salaried,1,Approved
+IND1187,37,553475,246922,,687.0,0,Bangalore,Graduate,Salaried,1,Approved
+IND1188,50,655544,1034550,13889.0,548.0,2,Bangalore,Graduate,Salaried,1,Approved
+IND1189,24,413727,114501,26335.0,825.0,0,Mumbai,Graduate,Salaried,1,Approved
+IND1190,41,342620,179369,13254.0,761.0,1,Hyderabad,Not Graduate,Salaried,1,Approved
+IND1191,57,957141,245519,23074.0,312.0,1,Pune,Not Graduate,Self-Employed,1,Approved
+IND1192,40,336174,442193,13442.0,683.0,3,Chennai,Graduate,Freelancer,1,Approved
+IND1193,47,367916,248982,39327.0,855.0,4,Bangalore,Graduate,Salaried,0,Approved
+IND1194,24,1975959,287268,18199.0,698.0,1,Mumbai,Graduate,Salaried,1,Approved
+IND1195,40,120095,114093,9291.0,318.0,0,Mumbai,Graduate,Business Owner,1,Approved
+IND1196,41,202059,519196,2112.0,874.0,0,Mumbai,Graduate,Salaried,0,Approved
+IND1197,53,313779,189929,23515.0,790.0,4,Delhi,Graduate,Business Owner,0,Approved
+IND1198,28,1198784,87984,21581.0,718.0,4,Mumbai,Graduate,Self-Employed,0,Rejected
+IND1199,54,149041,322800,28500.0,636.0,3,Delhi,Graduate,Freelancer,1,Approved
+IND1200,39,123812,110865,34026.0,718.0,2,Delhi,Graduate,Salaried,0,Rejected
+IND1201,22,141648,75663,18523.0,421.0,0,Kolkata,Graduate,Self-Employed,1,Approved
+IND1202,32,157084,545101,3424.0,731.0,4,Bangalore,Graduate,Salaried,1,Approved
+IND1203,49,135328,204121,21552.0,343.0,0,Chennai,Not Graduate,Self-Employed,1,Approved
+IND1204,46,381402,395858,12808.0,616.0,4,Hyderabad,Not Graduate,Salaried,1,Rejected
+IND1205,44,467722,135829,8989.0,680.0,1,Mumbai,Graduate,Salaried,0,Approved
+IND1206,52,246809,436580,25620.0,444.0,0,Hyderabad,Graduate,Self-Employed,1,Approved
+IND1207,51,323190,79677,2887.0,626.0,1,Delhi,Not Graduate,Self-Employed,1,Approved
+IND1208,56,158471,160003,33802.0,662.0,0,Hyderabad,Not Graduate,Business Owner,1,Approved
+IND1209,28,284012,1004881,21488.0,349.0,2,Delhi,Graduate,Self-Employed,0,Rejected
+IND1210,37,415692,444957,32013.0,364.0,3,Kolkata,Graduate,Self-Employed,1,Approved
+IND1211,47,647113,221918,18402.0,654.0,1,Delhi,Graduate,Salaried,1,Approved
+IND1212,23,121340,153794,23205.0,463.0,4,Delhi,Graduate,Self-Employed,1,Approved
+IND1213,22,371926,564196,28049.0,440.0,2,Pune,Graduate,Self-Employed,1,Approved
+IND1214,33,260960,246780,14253.0,427.0,0,Mumbai,Graduate,Business Owner,1,Approved
+IND1215,26,886444,405143,20990.0,697.0,1,Hyderabad,Not Graduate,Freelancer,1,Approved
+IND1216,58,622883,400715,9846.0,762.0,0,Hyderabad,Graduate,Salaried,1,Rejected
+IND1217,53,475770,54527,27027.0,486.0,0,Chennai,Graduate,Business Owner,1,Approved
+IND1218,30,249885,83741,5765.0,489.0,0,Kolkata,Graduate,Salaried,0,Rejected
+IND1219,56,1084688,319430,17950.0,687.0,3,Kolkata,Graduate,Salaried,0,Approved
+IND1220,40,138459,94070,11741.0,728.0,3,Mumbai,Graduate,Self-Employed,0,Approved
+IND1221,37,166374,123758,24742.0,583.0,4,Chennai,Graduate,Salaried,0,Approved
+IND1222,24,318788,782663,26703.0,536.0,1,Hyderabad,Not Graduate,Self-Employed,0,Approved
+IND1223,41,173155,255348,39623.0,493.0,2,Hyderabad,Graduate,Salaried,1,Approved
+IND1224,45,1373223,397304,24931.0,586.0,2,Mumbai,Not Graduate,Salaried,0,Approved
+IND1225,54,759773,254100,25580.0,435.0,2,Hyderabad,Not Graduate,Self-Employed,1,Approved
+IND1226,45,239892,251027,17166.0,470.0,0,Kolkata,Graduate,Self-Employed,0,Approved
+IND1227,32,475231,74720,31240.0,458.0,3,Pune,Graduate,Freelancer,0,Approved
+IND1228,29,1734366,155270,27991.0,,1,Delhi,Graduate,Self-Employed,0,Approved
+IND1229,57,982352,132971,34969.0,786.0,0,Mumbai,Not Graduate,Self-Employed,0,Approved
+IND1230,59,487315,173872,12561.0,856.0,3,Delhi,Not Graduate,Salaried,1,Approved
+IND1231,41,1056214,450298,18901.0,882.0,3,Chennai,Not Graduate,Salaried,1,Approved
+IND1232,56,1930725,166276,32020.0,803.0,1,Hyderabad,Graduate,Salaried,0,Approved
+IND1233,46,664021,200231,27917.0,670.0,1,Bangalore,Not Graduate,Self-Employed,1,Rejected
+IND1234,56,146877,176617,3988.0,402.0,1,Mumbai,Graduate,Self-Employed,1,Rejected
+IND1235,46,325385,74515,16256.0,424.0,0,Delhi,Graduate,Salaried,1,Approved
+IND1236,50,847633,195433,24192.0,612.0,4,Bangalore,Graduate,Self-Employed,1,Approved
+IND1237,39,224841,104417,30230.0,757.0,1,Pune,Graduate,Self-Employed,1,Approved
+IND1238,39,830297,101670,24625.0,529.0,4,Hyderabad,Not Graduate,Salaried,1,Approved
+IND1239,23,171287,74688,34088.0,496.0,0,Delhi,Graduate,Salaried,1,Approved
+IND1240,56,139233,160274,16114.0,722.0,4,Bangalore,Graduate,Business Owner,0,Approved
+IND1241,37,313862,404169,7755.0,871.0,2,Mumbai,Graduate,Self-Employed,1,Approved
+IND1242,57,134969,130893,12825.0,470.0,4,Kolkata,Not Graduate,Business Owner,1,Approved
+IND1243,54,1381144,143618,24693.0,681.0,1,Delhi,Not Graduate,Salaried,1,Approved
+IND1244,25,819953,307277,6117.0,472.0,0,Bangalore,Graduate,Freelancer,1,Approved
+IND1245,54,765317,104489,26729.0,752.0,1,Delhi,Graduate,Salaried,1,Approved
+IND1246,35,517460,618154,34182.0,649.0,2,Hyderabad,Graduate,Salaried,0,Approved
+IND1247,42,217503,233591,30890.0,793.0,1,Hyderabad,Not Graduate,Freelancer,1,Approved
+IND1248,41,412140,198372,31340.0,303.0,1,Hyderabad,Graduate,Salaried,1,Approved
+IND1249,29,483799,254009,3518.0,392.0,1,Delhi,Graduate,Self-Employed,1,Approved
+IND1250,28,417802,95390,32949.0,305.0,3,Delhi,Graduate,Salaried,1,Approved
+IND1251,24,240568,287638,24547.0,587.0,2,Mumbai,Graduate,Self-Employed,1,Approved
+IND1252,38,409647,162785,18346.0,445.0,1,Hyderabad,Not Graduate,Freelancer,0,Approved
+IND1253,54,390269,618709,4600.0,723.0,1,Mumbai,Graduate,Salaried,1,Approved
+IND1254,33,2363655,96237,31267.0,756.0,1,Bangalore,Graduate,Self-Employed,1,Approved
+IND1255,43,1030907,226837,38322.0,501.0,0,Pune,Graduate,Salaried,1,Rejected
+IND1256,43,368986,277895,28990.0,511.0,3,Pune,Graduate,Self-Employed,0,Approved
+IND1257,51,510137,58488,18193.0,305.0,0,Delhi,Not Graduate,Salaried,1,Approved
+IND1258,59,671126,163018,32109.0,675.0,3,Bangalore,Graduate,Salaried,1,Approved
+IND1259,59,134194,379785,21233.0,,1,Mumbai,Not Graduate,Salaried,1,Approved
+IND1260,29,1021218,479224,18194.0,405.0,2,Hyderabad,Not Graduate,Salaried,1,Approved
+IND1261,48,906807,143914,36510.0,700.0,4,Chennai,Graduate,Freelancer,1,Rejected
+IND1262,48,364576,450607,3306.0,395.0,4,Mumbai,Graduate,Salaried,0,Approved
+IND1263,55,318486,908604,5849.0,687.0,1,Delhi,Graduate,Salaried,0,Rejected
+IND1264,42,247509,536007,14360.0,751.0,0,Chennai,Not Graduate,Salaried,1,Rejected
+IND1265,51,379022,81289,31231.0,715.0,2,Pune,Graduate,Salaried,1,Approved
+IND1266,54,138156,386509,38963.0,803.0,3,Mumbai,Graduate,Self-Employed,0,Rejected
+IND1267,49,884740,146293,20689.0,753.0,1,Bangalore,Graduate,Freelancer,0,Approved
+IND1268,54,134425,1164532,31084.0,590.0,2,Mumbai,Not Graduate,Salaried,0,Approved
+IND1269,26,279625,216071,11280.0,833.0,2,Mumbai,Graduate,Business Owner,1,Approved
+IND1270,40,1192891,82650,4642.0,492.0,3,Pune,Graduate,Self-Employed,0,Approved
+IND1271,25,651531,372914,16296.0,449.0,2,Chennai,Graduate,Salaried,1,Approved
+IND1272,56,252175,147525,17438.0,814.0,0,Chennai,Graduate,Self-Employed,1,Approved
+IND1273,38,236488,1508885,39525.0,692.0,0,Mumbai,Not Graduate,Self-Employed,0,Approved
+IND1274,49,122038,1025301,4994.0,615.0,0,Chennai,Graduate,Self-Employed,1,Approved
+IND1275,51,595915,316875,36039.0,375.0,2,Delhi,Not Graduate,Business Owner,0,Approved
+IND1276,50,140005,84765,3813.0,,0,Delhi,Not Graduate,Salaried,1,Rejected
+IND1277,27,424230,340277,29491.0,569.0,3,Bangalore,Graduate,Freelancer,0,Approved
+IND1278,56,1429353,74411,20845.0,524.0,2,Mumbai,Not Graduate,Business Owner,1,Approved
+IND1279,58,166374,57450,39164.0,829.0,4,Chennai,Graduate,Salaried,1,Approved
+IND1280,45,1019541,482842,15318.0,412.0,2,Bangalore,Graduate,Self-Employed,0,Approved
+IND1281,50,2025916,108852,19200.0,550.0,3,Mumbai,Not Graduate,Salaried,0,Approved
+IND1282,52,145396,169116,2082.0,532.0,4,Mumbai,Graduate,Freelancer,1,Approved
+IND1283,56,977912,957250,3920.0,382.0,2,Mumbai,Graduate,Self-Employed,0,Approved
+IND1284,54,410333,152684,13683.0,424.0,0,Mumbai,Graduate,Salaried,1,Approved
+IND1285,42,1067976,137918,13336.0,474.0,1,Bangalore,Not Graduate,Salaried,1,Rejected
+IND1286,53,458816,675893,17596.0,368.0,1,Chennai,Graduate,Self-Employed,1,Approved
+IND1287,44,554016,79343,4093.0,346.0,0,Mumbai,Graduate,Salaried,1,Approved
+IND1288,54,433911,406344,14905.0,555.0,1,Mumbai,Graduate,Salaried,1,Approved
+IND1289,24,919492,1157081,26351.0,329.0,1,Bangalore,Not Graduate,Salaried,1,Approved
+IND1290,39,649568,628907,32981.0,580.0,0,Chennai,Not Graduate,Salaried,1,Approved
+IND1291,46,414639,313649,10367.0,536.0,0,Delhi,Graduate,Salaried,0,Approved
+IND1292,52,930468,144241,7285.0,547.0,2,Delhi,Not Graduate,Salaried,0,Approved
+IND1293,24,232566,123365,39705.0,667.0,2,Bangalore,Graduate,Salaried,1,Approved
+IND1294,45,188477,477667,18753.0,794.0,0,Delhi,Graduate,Self-Employed,1,Approved
+IND1295,53,189931,579695,20485.0,324.0,3,Mumbai,Not Graduate,Self-Employed,1,Approved
+IND1296,43,282591,236339,14977.0,,1,Hyderabad,Not Graduate,Salaried,0,Approved
+IND1297,44,229085,120040,21874.0,789.0,2,Bangalore,Not Graduate,Salaried,1,Approved
+IND1298,23,1184220,79961,9674.0,793.0,1,Bangalore,Not Graduate,Self-Employed,0,Approved
+IND1299,48,164745,72803,31038.0,613.0,4,Hyderabad,Graduate,Salaried,0,Approved
+IND1300,23,600245,367419,31315.0,674.0,0,Hyderabad,Not Graduate,Salaried,1,Approved
+IND1301,47,203904,186232,5676.0,324.0,3,Mumbai,Graduate,Salaried,0,Approved
+IND1302,38,973600,639418,4426.0,633.0,4,Delhi,Graduate,Business Owner,1,Approved
+IND1303,54,1420924,386452,26473.0,654.0,4,Mumbai,Graduate,Business Owner,0,Approved
+IND1304,30,370546,103069,4962.0,415.0,4,Mumbai,Graduate,Business Owner,1,Approved
+IND1305,50,965022,287835,31943.0,347.0,0,Hyderabad,Graduate,Self-Employed,1,Rejected
+IND1306,47,122063,192956,2859.0,398.0,2,Pune,Graduate,Self-Employed,0,Approved
+IND1307,56,805801,265243,6138.0,758.0,0,Kolkata,Graduate,Salaried,0,Approved
+IND1308,46,223832,384918,37192.0,822.0,2,Bangalore,Graduate,Self-Employed,1,Rejected
+IND1309,45,1077447,460226,27640.0,896.0,4,Mumbai,Graduate,Salaried,1,Approved
+IND1310,34,120448,514054,12409.0,704.0,4,Mumbai,Graduate,Self-Employed,1,Approved
+IND1311,28,444936,123248,6017.0,513.0,3,Chennai,Graduate,Business Owner,0,Approved
+IND1312,57,685278,57902,12451.0,802.0,2,Bangalore,Not Graduate,Self-Employed,1,Approved
+IND1313,41,239733,386091,30327.0,747.0,4,Bangalore,Not Graduate,Salaried,1,Approved
+IND1314,22,205838,78108,12278.0,875.0,1,Chennai,Not Graduate,Salaried,1,Approved
+IND1315,29,155138,144554,26944.0,557.0,3,Hyderabad,Graduate,Self-Employed,1,Approved
+IND1316,37,278067,50956,3134.0,420.0,0,Chennai,Not Graduate,Self-Employed,0,Approved
+IND1317,35,448250,336166,32131.0,353.0,3,Mumbai,Graduate,Business Owner,0,Approved
+IND1318,33,169248,95720,39887.0,630.0,1,Hyderabad,Graduate,Salaried,1,Approved
+IND1319,44,309087,316257,24520.0,540.0,2,Pune,Graduate,Business Owner,1,Approved
+IND1320,36,123645,1249161,23869.0,829.0,0,Delhi,Not Graduate,Self-Employed,0,Approved
+IND1321,49,802995,68861,,782.0,0,Hyderabad,Graduate,Business Owner,1,Approved
+IND1322,55,174992,70052,7039.0,486.0,2,Delhi,Graduate,Self-Employed,0,Approved
+IND1323,23,253263,154022,23281.0,,3,Kolkata,Graduate,Self-Employed,0,Approved
+IND1324,53,127439,553201,12442.0,663.0,4,Mumbai,Not Graduate,Self-Employed,0,Approved
+IND1325,44,346423,110686,10252.0,790.0,3,Bangalore,Graduate,Self-Employed,0,Rejected
+IND1326,43,853336,161719,29586.0,730.0,1,Mumbai,Graduate,Freelancer,1,Approved
+IND1327,46,319131,67741,19568.0,538.0,4,Hyderabad,Graduate,Salaried,1,Approved
+IND1328,43,199135,410087,22810.0,603.0,3,Mumbai,Graduate,Salaried,0,Approved
+IND1329,43,680480,181191,3551.0,597.0,2,Mumbai,Not Graduate,Freelancer,0,Approved
+IND1330,27,741993,405997,14625.0,,1,Bangalore,Graduate,Self-Employed,1,Approved
+IND1331,36,196344,634832,36397.0,632.0,1,Pune,Not Graduate,Self-Employed,0,Approved
+IND1332,58,709358,116239,28249.0,773.0,1,Mumbai,Graduate,Salaried,1,Rejected
+IND1333,54,1297239,461779,3361.0,582.0,4,Mumbai,Not Graduate,Salaried,0,Approved
+IND1334,29,192789,65227,28149.0,890.0,0,Chennai,Graduate,Business Owner,1,Approved
+IND1335,26,709585,622781,6370.0,371.0,4,Bangalore,Graduate,Self-Employed,0,Approved
+IND1336,25,613184,313005,7283.0,562.0,3,Pune,Graduate,Salaried,0,Approved
+IND1337,27,376657,568318,9610.0,874.0,0,Mumbai,Graduate,Salaried,0,Approved
+IND1338,53,143866,50047,16924.0,311.0,3,Hyderabad,Graduate,Business Owner,0,Rejected
+IND1339,51,151052,96305,12626.0,440.0,0,Mumbai,Not Graduate,Salaried,1,Rejected
+IND1340,56,885339,173475,36761.0,854.0,4,Mumbai,Graduate,Business Owner,1,Approved
+IND1341,37,1968047,169308,2869.0,316.0,1,Hyderabad,Not Graduate,Salaried,0,Approved
+IND1342,34,570869,114281,33552.0,362.0,2,Bangalore,Not Graduate,Self-Employed,0,Rejected
+IND1343,51,356206,170159,3014.0,552.0,1,Chennai,Graduate,Freelancer,1,Approved
+IND1344,40,537165,84484,12103.0,764.0,4,Delhi,Not Graduate,Self-Employed,1,Approved
+IND1345,38,480951,183080,18986.0,675.0,0,Delhi,Not Graduate,Salaried,1,Approved
+IND1346,40,313551,455319,32471.0,819.0,1,Delhi,Graduate,Self-Employed,1,Approved
+IND1347,49,147151,213034,35458.0,389.0,4,Kolkata,Not Graduate,Salaried,1,Approved
+IND1348,47,809295,54541,27069.0,,3,Delhi,Graduate,Salaried,1,Rejected
+IND1349,58,305980,186805,18873.0,375.0,2,Delhi,Graduate,Freelancer,1,Approved
+IND1350,47,803229,56887,25248.0,699.0,1,Delhi,Not Graduate,Business Owner,1,Approved
+IND1351,44,236413,897144,25624.0,370.0,0,Bangalore,Graduate,Self-Employed,0,Approved
+IND1352,30,120412,84084,31061.0,479.0,3,Delhi,Graduate,Salaried,0,Rejected
+IND1353,33,189236,357483,26170.0,423.0,4,Pune,Graduate,Salaried,0,Approved
+IND1354,22,372850,950917,10024.0,680.0,2,Delhi,Not Graduate,Salaried,1,Approved
+IND1355,22,1275136,487231,18678.0,592.0,0,Pune,Not Graduate,Self-Employed,1,Approved
+IND1356,55,163120,350423,22411.0,494.0,4,Mumbai,Graduate,Business Owner,1,Approved
+IND1357,53,890234,507304,21296.0,527.0,4,Hyderabad,Not Graduate,Self-Employed,0,Approved
+IND1358,46,419484,1051565,,730.0,1,Pune,Not Graduate,Business Owner,1,Approved
+IND1359,22,819297,292782,29172.0,735.0,1,Mumbai,Graduate,Salaried,1,Approved
+IND1360,37,261742,254782,23128.0,760.0,0,Kolkata,Graduate,Salaried,0,Rejected
+IND1361,26,852900,297375,20257.0,320.0,4,Bangalore,Not Graduate,Salaried,1,Approved
+IND1362,43,712809,240183,14855.0,363.0,1,Kolkata,Not Graduate,Salaried,1,Approved
+IND1363,50,224573,302025,21642.0,464.0,2,Hyderabad,Not Graduate,Salaried,1,Approved
+IND1364,24,176319,199387,37585.0,326.0,2,Delhi,Graduate,Freelancer,1,Approved
+IND1365,33,930145,111616,22025.0,610.0,4,Mumbai,Graduate,Salaried,1,Approved
+IND1366,47,1441301,82028,6458.0,584.0,1,Delhi,Graduate,Freelancer,1,Approved
+IND1367,37,132721,67697,7307.0,580.0,0,Mumbai,Graduate,Salaried,1,Approved
+IND1368,58,645619,126398,20425.0,463.0,0,Mumbai,Graduate,Freelancer,1,Approved
+IND1369,43,1081070,61805,30273.0,523.0,0,Mumbai,Not Graduate,Self-Employed,0,Approved
+IND1370,50,898972,259353,7668.0,445.0,2,Delhi,Graduate,Freelancer,1,Approved
+IND1371,35,1455519,133458,27934.0,329.0,1,Chennai,Not Graduate,Salaried,0,Approved
+IND1372,49,691003,485078,9697.0,344.0,1,Mumbai,Graduate,Self-Employed,0,Approved
+IND1373,26,353572,69285,26417.0,770.0,2,Mumbai,Graduate,Freelancer,1,Approved
+IND1374,51,269558,114159,18446.0,333.0,0,Hyderabad,Graduate,Salaried,1,Rejected
+IND1375,26,274702,377561,12751.0,726.0,0,Mumbai,Graduate,Salaried,1,Rejected
+IND1376,33,635554,278328,9352.0,520.0,4,Mumbai,Graduate,Salaried,0,Approved
+IND1377,37,667911,66666,15516.0,833.0,3,Mumbai,Not Graduate,Freelancer,0,Approved
+IND1378,47,209437,574379,25299.0,666.0,1,Pune,Not Graduate,Self-Employed,0,Approved
+IND1379,47,930353,574425,33957.0,849.0,1,Chennai,Graduate,Self-Employed,0,Approved
+IND1380,42,621999,150271,30927.0,881.0,1,Delhi,Graduate,Salaried,1,Approved
+IND1381,57,450900,154032,38412.0,415.0,3,Hyderabad,Not Graduate,Salaried,0,Approved
+IND1382,54,375109,1178110,31493.0,538.0,4,Bangalore,Graduate,Business Owner,1,Approved
+IND1383,51,433432,295992,28711.0,634.0,3,Hyderabad,Graduate,Salaried,0,Approved
+IND1384,58,189382,239456,10003.0,740.0,0,Hyderabad,Graduate,Self-Employed,1,Approved
+IND1385,44,211112,505274,33707.0,447.0,0,Bangalore,Not Graduate,Freelancer,0,Approved
+IND1386,31,158236,133969,5278.0,308.0,1,Delhi,Graduate,Salaried,0,Approved
+IND1387,26,186732,190171,9296.0,587.0,2,Mumbai,Graduate,Self-Employed,0,Approved
+IND1388,57,361830,127917,27398.0,687.0,1,Bangalore,Not Graduate,Salaried,1,Approved
+IND1389,55,422310,439164,37842.0,349.0,2,Pune,Graduate,Self-Employed,1,Approved
+IND1390,52,127209,262947,15261.0,816.0,3,Bangalore,Graduate,Salaried,1,Approved
+IND1391,31,757421,318839,13173.0,886.0,0,Chennai,Graduate,Self-Employed,1,Rejected
+IND1392,40,259351,122690,32449.0,577.0,2,Kolkata,Not Graduate,Salaried,0,Approved
+IND1393,53,1091422,112187,3637.0,599.0,3,Mumbai,Graduate,Salaried,1,Approved
+IND1394,22,1490744,217540,33781.0,888.0,0,Hyderabad,Not Graduate,Self-Employed,1,Approved
+IND1395,26,202052,384438,15652.0,434.0,2,Hyderabad,Not Graduate,Salaried,0,Approved
+IND1396,25,368031,236236,7103.0,879.0,1,Kolkata,Graduate,Self-Employed,0,Approved
+IND1397,37,120493,58297,27500.0,446.0,1,Kolkata,Not Graduate,Salaried,0,Approved
+IND1398,45,484847,557285,36800.0,789.0,1,Hyderabad,Graduate,Self-Employed,0,Rejected
+IND1399,37,493890,66718,37529.0,777.0,3,Mumbai,Graduate,Salaried,1,Approved
+IND1400,23,233762,829896,20452.0,458.0,1,Chennai,Graduate,Self-Employed,0,Approved
+IND1401,49,446951,56365,33174.0,683.0,4,Mumbai,Graduate,Salaried,0,Approved
+IND1402,53,222235,346410,37436.0,,0,Chennai,Graduate,Salaried,0,Approved
+IND1403,48,190134,71445,17954.0,740.0,3,Pune,Graduate,Salaried,1,Approved
+IND1404,41,541669,653872,19186.0,488.0,1,Delhi,Graduate,Self-Employed,1,Approved
+IND1405,45,277765,206107,14356.0,714.0,0,Hyderabad,Not Graduate,Salaried,0,Approved
+IND1406,33,476896,86986,34963.0,638.0,2,Delhi,Graduate,Business Owner,0,Rejected
+IND1407,56,347132,154188,4187.0,480.0,1,Delhi,Not Graduate,Business Owner,0,Approved
+IND1408,54,1782949,95028,13707.0,587.0,0,Delhi,Graduate,Salaried,1,Approved
+IND1409,54,184810,96757,37098.0,486.0,4,Chennai,Graduate,Self-Employed,0,Rejected
+IND1410,58,369895,789649,28935.0,437.0,2,Pune,Graduate,Salaried,1,Approved
+IND1411,33,576344,197307,23225.0,429.0,4,Kolkata,Graduate,Salaried,1,Rejected
+IND1412,24,321371,438740,5606.0,493.0,0,Mumbai,Graduate,Self-Employed,1,Rejected
+IND1413,22,1590778,305139,34828.0,615.0,4,Pune,Not Graduate,Self-Employed,0,Rejected
+IND1414,54,631892,332082,28489.0,443.0,0,Hyderabad,Not Graduate,Self-Employed,1,Approved
+IND1415,31,547991,85302,16387.0,315.0,0,Delhi,Not Graduate,Salaried,1,Approved
+IND1416,50,685975,116703,5927.0,601.0,4,Mumbai,Graduate,Salaried,0,Approved
+IND1417,34,1340063,436322,8296.0,722.0,0,Delhi,Not Graduate,Salaried,0,Rejected
+IND1418,33,1073598,933107,32444.0,544.0,1,Pune,Graduate,Self-Employed,0,Approved
+IND1419,52,635355,126181,4591.0,406.0,0,Hyderabad,Graduate,Self-Employed,0,Approved
+IND1420,23,673178,129215,28147.0,387.0,3,Hyderabad,Not Graduate,Self-Employed,0,Approved
+IND1421,56,183093,210089,3200.0,428.0,0,Delhi,Graduate,Salaried,1,Approved
+IND1422,44,163387,1081308,17721.0,640.0,3,Hyderabad,Graduate,Salaried,1,Approved
+IND1423,38,458430,128321,21238.0,303.0,0,Mumbai,Graduate,Salaried,1,Approved
+IND1424,47,127415,180628,13087.0,626.0,0,Delhi,Graduate,Salaried,0,Approved
+IND1425,29,383387,605205,32816.0,709.0,4,Bangalore,Not Graduate,Salaried,1,Approved
+IND1426,50,214465,50731,,605.0,1,Mumbai,Graduate,Business Owner,0,Rejected
+IND1427,47,289869,60144,2136.0,524.0,1,Chennai,Not Graduate,Business Owner,1,Approved
+IND1428,31,718095,281630,19413.0,647.0,2,Mumbai,Graduate,Self-Employed,0,Approved
+IND1429,47,1253700,644812,20978.0,620.0,4,Hyderabad,Graduate,Salaried,0,Approved
+IND1430,55,150068,118233,2661.0,858.0,4,Delhi,Graduate,Salaried,1,Approved
+IND1431,28,425635,208550,37240.0,480.0,1,Bangalore,Graduate,Business Owner,0,Approved
+IND1432,25,976640,199670,29253.0,685.0,4,Mumbai,Graduate,Salaried,1,Rejected
+IND1433,32,154444,210125,28884.0,407.0,1,Mumbai,Not Graduate,Freelancer,1,Approved
+IND1434,50,816078,293559,34854.0,830.0,4,Pune,Not Graduate,Salaried,1,Approved
+IND1435,57,297143,208598,12704.0,709.0,0,Delhi,Not Graduate,Salaried,1,Approved
+IND1436,46,275499,198311,26527.0,595.0,1,Chennai,Not Graduate,Freelancer,1,Approved
+IND1437,42,1637098,210750,18322.0,,1,Kolkata,Not Graduate,Salaried,0,Approved
+IND1438,57,209687,273429,8968.0,630.0,3,Mumbai,Graduate,Self-Employed,1,Approved
+IND1439,31,592615,242511,29518.0,792.0,4,Delhi,Not Graduate,Self-Employed,1,Approved
+IND1440,58,809133,531270,29886.0,494.0,4,Hyderabad,Graduate,Salaried,0,Approved
+IND1441,30,136822,62690,3700.0,311.0,1,Kolkata,Graduate,Salaried,0,Approved
+IND1442,45,563932,497915,30246.0,494.0,0,Pune,Graduate,Self-Employed,1,Approved
+IND1443,56,1330888,514354,37468.0,789.0,0,Bangalore,Graduate,Self-Employed,1,Approved
+IND1444,56,173056,133836,25199.0,481.0,0,Chennai,Graduate,Salaried,1,Approved
+IND1445,57,1026197,205370,34115.0,615.0,4,Mumbai,Not Graduate,Freelancer,0,Rejected
+IND1446,39,481326,194303,7520.0,329.0,3,Kolkata,Graduate,Salaried,1,Approved
+IND1447,53,503475,111638,38455.0,895.0,1,Kolkata,Graduate,Salaried,0,Approved
+IND1448,45,499674,176375,22929.0,395.0,2,Mumbai,Graduate,Salaried,1,Rejected
+IND1449,44,262005,61350,16955.0,680.0,3,Delhi,Graduate,Salaried,1,Approved
+IND1450,53,1214591,131370,15917.0,743.0,2,Mumbai,Graduate,Salaried,0,Approved
+IND1451,58,1297639,474133,6757.0,597.0,3,Delhi,Graduate,Freelancer,1,Approved
+IND1452,33,512656,133715,15045.0,660.0,0,Chennai,Graduate,Salaried,1,Approved
+IND1453,34,731923,476221,6733.0,673.0,4,Delhi,Graduate,Salaried,1,Approved
+IND1454,44,498966,239607,32954.0,,2,Mumbai,Not Graduate,Salaried,1,Approved
+IND1455,46,384968,579779,33135.0,602.0,3,Delhi,Not Graduate,Self-Employed,1,Approved
+IND1456,56,552489,263786,9081.0,,4,Kolkata,Graduate,Business Owner,1,Approved
+IND1457,51,442079,57529,25501.0,545.0,2,Bangalore,Graduate,Salaried,0,Rejected
+IND1458,38,484000,331305,23113.0,536.0,1,Delhi,Graduate,Salaried,0,Approved
+IND1459,41,732680,61472,36441.0,833.0,3,Mumbai,Not Graduate,Salaried,0,Approved
+IND1460,46,382266,199730,26690.0,484.0,1,Kolkata,Graduate,Salaried,1,Rejected
+IND1461,43,136643,712775,31345.0,767.0,0,Chennai,Graduate,Salaried,1,Approved
+IND1462,34,191650,95141,28829.0,662.0,1,Delhi,Not Graduate,Salaried,0,Approved
+IND1463,40,350933,173521,37062.0,582.0,1,Mumbai,Graduate,Salaried,1,Rejected
+IND1464,57,636141,377204,5630.0,852.0,3,Mumbai,Graduate,Self-Employed,1,Approved
+IND1465,33,479850,584816,,635.0,0,Mumbai,Graduate,Salaried,1,Approved
+IND1466,40,540265,327881,5453.0,461.0,1,Bangalore,Not Graduate,Freelancer,0,Approved
+IND1467,33,381016,124659,39275.0,459.0,4,Pune,Not Graduate,Freelancer,1,Approved
+IND1468,30,502576,330681,10328.0,773.0,2,Bangalore,Not Graduate,Self-Employed,0,Approved
+IND1469,28,279604,138002,17534.0,621.0,1,Chennai,Graduate,Salaried,0,Approved
+IND1470,49,374089,366842,21744.0,311.0,0,Delhi,Graduate,Salaried,1,Approved
+IND1471,35,665467,819958,21389.0,723.0,1,Hyderabad,Not Graduate,Salaried,0,Approved
+IND1472,52,941767,369488,38320.0,372.0,2,Hyderabad,Not Graduate,Self-Employed,0,Approved
+IND1473,40,347420,546725,37010.0,887.0,0,Mumbai,Graduate,Salaried,1,Approved
+IND1474,37,137857,50526,16665.0,500.0,3,Delhi,Not Graduate,Business Owner,0,Approved
+IND1475,26,190538,366083,39865.0,821.0,0,Hyderabad,Graduate,Freelancer,1,Approved
+IND1476,56,128432,492383,10640.0,804.0,3,Mumbai,Graduate,Salaried,0,Approved
+IND1477,33,543675,60351,36716.0,338.0,0,Delhi,Not Graduate,Self-Employed,0,Approved
+IND1478,46,281575,563146,27521.0,359.0,2,Bangalore,Graduate,Salaried,0,Approved
+IND1479,42,432772,124161,32049.0,877.0,2,Kolkata,Not Graduate,Salaried,0,Approved
+IND1480,57,391916,323624,7618.0,620.0,0,Bangalore,Graduate,Salaried,1,Rejected
+IND1481,44,154016,452803,39004.0,734.0,1,Chennai,Graduate,Salaried,1,Approved
+IND1482,37,326510,321669,3920.0,707.0,2,Delhi,Not Graduate,Business Owner,1,Rejected
+IND1483,35,219672,74206,6188.0,685.0,3,Chennai,Not Graduate,Salaried,1,Approved
+IND1484,52,336788,276784,14207.0,868.0,3,Bangalore,Graduate,Salaried,0,Approved
+IND1485,26,211050,249395,2238.0,377.0,4,Pune,Graduate,Self-Employed,1,Rejected
+IND1486,56,854165,626450,34972.0,493.0,3,Delhi,Graduate,Self-Employed,1,Approved
+IND1487,44,196557,179479,12799.0,584.0,4,Bangalore,Graduate,Salaried,1,Approved
+IND1488,50,1415433,146813,7552.0,826.0,0,Hyderabad,Not Graduate,Business Owner,0,Rejected
+IND1489,32,335078,396424,30916.0,823.0,0,Delhi,Not Graduate,Self-Employed,1,Rejected
+IND1490,39,868958,183044,6927.0,455.0,0,Mumbai,Graduate,Salaried,1,Rejected
+IND1491,33,516367,309682,29964.0,639.0,1,Mumbai,Graduate,Salaried,0,Approved
+IND1492,30,651739,309932,13164.0,424.0,1,Mumbai,Graduate,Salaried,1,Approved
+IND1493,31,703931,597401,39158.0,579.0,4,Pune,Not Graduate,Business Owner,0,Approved
+IND1494,38,401153,278256,21071.0,427.0,3,Mumbai,Graduate,Self-Employed,1,Approved
+IND1495,59,433491,224365,8160.0,613.0,3,Mumbai,Graduate,Business Owner,1,Rejected
+IND1496,28,408615,87377,17810.0,631.0,0,Hyderabad,Graduate,Salaried,1,Approved
+IND1497,34,474749,80750,7126.0,449.0,2,Delhi,Graduate,Salaried,1,Approved
+IND1498,30,131934,91904,32009.0,753.0,1,Bangalore,Graduate,Salaried,0,Approved
+IND1499,48,321351,97139,35584.0,335.0,1,Mumbai,Graduate,Salaried,1,Approved
+IND1500,23,492753,303942,27396.0,,0,Kolkata,Not Graduate,Self-Employed,1,Rejected
+IND1501,26,484246,387713,2192.0,321.0,1,Pune,Not Graduate,Business Owner,0,Approved
+IND1502,50,749929,238751,38413.0,505.0,0,Pune,Not Graduate,Salaried,1,Approved
+IND1503,58,545695,491548,14816.0,655.0,4,Delhi,Graduate,Salaried,1,Rejected
+IND1504,59,2058047,1235053,34130.0,739.0,3,Chennai,Graduate,Salaried,0,Approved
+IND1505,40,253548,478717,38468.0,395.0,2,Mumbai,Graduate,Salaried,0,Approved
+IND1506,29,297984,346764,32698.0,463.0,3,Mumbai,Graduate,Salaried,0,Approved
+IND1507,22,313704,240085,12655.0,447.0,3,Mumbai,Not Graduate,Salaried,1,Approved
+IND1508,43,370803,198938,32075.0,829.0,4,Bangalore,Graduate,Salaried,1,Approved
+IND1509,38,843150,72041,11359.0,593.0,1,Bangalore,Graduate,Salaried,1,Rejected
+IND1510,28,227566,177443,38661.0,494.0,2,Bangalore,Not Graduate,Salaried,1,Approved
+IND1511,46,718444,652360,35272.0,779.0,1,Mumbai,Not Graduate,Salaried,1,Rejected
+IND1512,25,327886,462594,16671.0,422.0,3,Delhi,Graduate,Self-Employed,1,Rejected
+IND1513,57,488375,110852,29048.0,699.0,0,Hyderabad,Graduate,Salaried,0,Approved
+IND1514,27,520456,207124,12738.0,751.0,3,Delhi,Graduate,Freelancer,1,Approved
+IND1515,52,306626,474189,27963.0,403.0,1,Hyderabad,Graduate,Salaried,1,Approved
+IND1516,40,407480,67440,8773.0,761.0,3,Mumbai,Graduate,Salaried,1,Approved
+IND1517,48,333113,172507,38584.0,695.0,0,Chennai,Graduate,Salaried,1,Rejected
+IND1518,31,148655,527367,31894.0,636.0,4,Bangalore,Not Graduate,Salaried,0,Approved
+IND1519,47,349907,179335,2717.0,898.0,1,Mumbai,Graduate,Business Owner,1,Approved
+IND1520,40,160987,70198,13676.0,441.0,3,Mumbai,Graduate,Salaried,0,Approved
+IND1521,24,327691,245513,6434.0,616.0,1,Bangalore,Graduate,Freelancer,1,Approved
+IND1522,34,479496,544659,39825.0,857.0,4,Chennai,Graduate,Business Owner,0,Approved
+IND1523,49,466443,273073,31100.0,826.0,3,Delhi,Not Graduate,Self-Employed,1,Approved
+IND1524,41,554619,114136,6994.0,855.0,3,Delhi,Graduate,Self-Employed,0,Approved
+IND1525,49,160043,171224,6234.0,700.0,1,Pune,Graduate,Self-Employed,0,Approved
+IND1526,29,542362,199515,5764.0,609.0,1,Hyderabad,Graduate,Salaried,0,Approved
+IND1527,22,269672,266438,39405.0,794.0,0,Delhi,Not Graduate,Self-Employed,0,Approved
+IND1528,24,323694,406103,36872.0,855.0,4,Bangalore,Graduate,Salaried,0,Approved
+IND1529,34,900732,76027,25185.0,408.0,0,Mumbai,Not Graduate,Salaried,1,Approved
+IND1530,49,123628,601029,13999.0,671.0,3,Bangalore,Graduate,Salaried,1,Approved
+IND1531,46,475093,53096,38487.0,505.0,1,Delhi,Graduate,Self-Employed,0,Approved
+IND1532,54,485232,165529,4581.0,342.0,3,Kolkata,Graduate,Business Owner,0,Rejected
+IND1533,59,322109,56950,4763.0,544.0,3,Bangalore,Not Graduate,Salaried,1,Approved
+IND1534,27,228213,174796,29374.0,586.0,2,Bangalore,Not Graduate,Business Owner,1,Approved
+IND1535,53,226981,236538,12531.0,654.0,2,Bangalore,Graduate,Salaried,1,Rejected
+IND1536,42,980666,229196,27307.0,775.0,3,Pune,Graduate,Salaried,1,Rejected
+IND1537,37,353375,95269,32835.0,382.0,1,Chennai,Graduate,Salaried,0,Approved
+IND1538,42,280722,309431,13064.0,409.0,3,Bangalore,Graduate,Salaried,0,Approved
+IND1539,32,358246,61452,13312.0,489.0,2,Hyderabad,Graduate,Salaried,0,Approved
+IND1540,58,562726,408773,39548.0,550.0,1,Bangalore,Not Graduate,Self-Employed,1,Approved
+IND1541,57,183015,782694,38945.0,590.0,3,Bangalore,Not Graduate,Business Owner,1,Rejected
+IND1542,56,358723,153791,8476.0,500.0,4,Mumbai,Graduate,Salaried,1,Approved
+IND1543,40,474580,232058,26565.0,625.0,4,Bangalore,Graduate,Salaried,0,Approved
+IND1544,41,1307117,169069,4382.0,,3,Mumbai,Not Graduate,Business Owner,0,Approved
+IND1545,39,236423,51683,24463.0,708.0,1,Pune,Not Graduate,Self-Employed,0,Approved
+IND1546,35,298046,171888,35402.0,807.0,3,Delhi,Graduate,Salaried,1,Approved
+IND1547,36,310800,442218,28345.0,371.0,3,Kolkata,Graduate,Salaried,0,Rejected
+IND1548,52,492093,276578,28946.0,546.0,2,Bangalore,Graduate,Business Owner,1,Approved
+IND1549,22,296477,76690,16162.0,886.0,4,Hyderabad,Graduate,Self-Employed,0,Approved
+IND1550,24,425009,519557,10397.0,865.0,2,Bangalore,Graduate,Salaried,1,Approved
+IND1551,37,728919,239333,24335.0,643.0,2,Mumbai,Graduate,Salaried,1,Approved
+IND1552,44,608835,510852,16394.0,353.0,3,Delhi,Graduate,Business Owner,1,Approved
+IND1553,32,356502,267007,29197.0,827.0,2,Mumbai,Graduate,Salaried,1,Rejected
+IND1554,33,918676,255068,24010.0,831.0,4,Bangalore,Graduate,Freelancer,1,Approved
+IND1555,31,446705,77805,26123.0,857.0,2,Delhi,Graduate,Salaried,1,Rejected
+IND1556,53,430529,95788,24387.0,492.0,4,Chennai,Not Graduate,Business Owner,1,Approved
+IND1557,37,133914,944113,4890.0,357.0,2,Mumbai,Not Graduate,Salaried,1,Approved
+IND1558,29,1847785,114850,29769.0,736.0,4,Mumbai,Graduate,Salaried,1,Approved
+IND1559,59,172486,998028,10026.0,410.0,2,Delhi,Graduate,Business Owner,1,Approved
+IND1560,33,225133,239775,5306.0,428.0,2,Pune,Not Graduate,Salaried,1,Rejected
+IND1561,45,141232,86484,35665.0,625.0,1,Hyderabad,Graduate,Self-Employed,1,Approved
+IND1562,49,528663,76146,11277.0,307.0,4,Delhi,Graduate,Salaried,0,Approved
+IND1563,29,221802,108571,16683.0,328.0,4,Bangalore,Graduate,Salaried,0,Approved
+IND1564,49,199385,699700,2670.0,,4,Mumbai,Graduate,Salaried,1,Rejected
+IND1565,57,157089,183672,25675.0,430.0,0,Kolkata,Graduate,Self-Employed,1,Approved
+IND1566,47,163617,175811,19889.0,487.0,2,Hyderabad,Not Graduate,Salaried,1,Approved
+IND1567,29,471473,143930,15006.0,774.0,4,Delhi,Graduate,Salaried,1,Approved
+IND1568,49,586167,89767,28531.0,663.0,0,Bangalore,Graduate,Salaried,1,Approved
+IND1569,49,322586,217285,23639.0,503.0,1,Mumbai,Not Graduate,Self-Employed,1,Approved
+IND1570,58,381491,84829,18633.0,511.0,4,Kolkata,Graduate,Self-Employed,0,Rejected
+IND1571,57,583303,501181,36660.0,575.0,4,Mumbai,Graduate,Salaried,1,Approved
+IND1572,48,127013,165666,5439.0,372.0,0,Hyderabad,Graduate,Salaried,1,Approved
+IND1573,38,276110,167422,34172.0,542.0,2,Mumbai,Graduate,Freelancer,0,Approved
+IND1574,30,1566218,210616,37622.0,401.0,1,Hyderabad,Graduate,Salaried,1,Approved
+IND1575,54,467107,196804,13577.0,470.0,4,Chennai,Graduate,Business Owner,1,Approved
+IND1576,41,237332,1367576,13763.0,487.0,2,Hyderabad,Graduate,Business Owner,0,Rejected
+IND1577,34,415031,247073,22176.0,740.0,1,Bangalore,Not Graduate,Business Owner,0,Rejected
+IND1578,49,287817,73084,26255.0,385.0,3,Pune,Graduate,Salaried,1,Rejected
+IND1579,50,423924,283408,21996.0,775.0,3,Mumbai,Graduate,Business Owner,0,Rejected
+IND1580,34,173751,91096,37386.0,351.0,1,Delhi,Graduate,Business Owner,0,Approved
+IND1581,56,176954,57856,23062.0,410.0,0,Mumbai,Graduate,Self-Employed,0,Approved
+IND1582,27,181980,932901,37931.0,342.0,1,Kolkata,Graduate,Salaried,1,Approved
+IND1583,39,1244164,421295,37710.0,510.0,1,Delhi,Not Graduate,Salaried,1,Approved
+IND1584,26,648051,1029371,36693.0,499.0,0,Hyderabad,Graduate,Salaried,1,Approved
+IND1585,46,190877,212463,37740.0,325.0,0,Hyderabad,Graduate,Self-Employed,0,Approved
+IND1586,23,203473,239959,13705.0,598.0,2,Mumbai,Not Graduate,Self-Employed,1,Approved
+IND1587,31,644964,96081,30047.0,376.0,2,Mumbai,Graduate,Salaried,0,Rejected
+IND1588,51,187918,120891,12966.0,436.0,0,Delhi,Graduate,Salaried,0,Approved
+IND1589,26,226922,505888,19374.0,319.0,3,Delhi,Not Graduate,Salaried,1,Rejected
+IND1590,54,1442502,160086,13138.0,739.0,3,Mumbai,Not Graduate,Self-Employed,0,Approved
+IND1591,22,237913,488348,17935.0,510.0,1,Mumbai,Not Graduate,Freelancer,1,Approved
+IND1592,39,553448,358619,2489.0,850.0,4,Pune,Graduate,Salaried,1,Approved
+IND1593,53,1658330,98751,24260.0,734.0,1,Kolkata,Graduate,Salaried,0,Approved
+IND1594,32,307551,227037,28069.0,506.0,1,Delhi,Not Graduate,Salaried,1,Approved
+IND1595,42,127068,332825,21275.0,738.0,4,Delhi,Graduate,Self-Employed,1,Approved
+IND1596,47,231963,116982,38284.0,341.0,0,Mumbai,Graduate,Self-Employed,1,Approved
+IND1597,46,830852,494003,34821.0,710.0,3,Hyderabad,Not Graduate,Freelancer,0,Approved
+IND1598,43,919834,246769,18999.0,822.0,1,Chennai,Graduate,Salaried,1,Approved
+IND1599,48,705303,95153,35722.0,726.0,4,Mumbai,Not Graduate,Freelancer,0,Approved
+IND1600,34,168013,268657,12625.0,574.0,2,Mumbai,Graduate,Salaried,1,Approved
+IND1601,54,754895,2089708,3629.0,747.0,1,Chennai,Graduate,Self-Employed,0,Approved
+IND1602,55,1123734,90783,12973.0,668.0,3,Bangalore,Graduate,Salaried,1,Approved
+IND1603,56,487126,474235,8859.0,519.0,0,Mumbai,Not Graduate,Business Owner,0,Approved
+IND1604,22,1251242,108080,38046.0,876.0,1,Bangalore,Graduate,Self-Employed,0,Approved
+IND1605,42,821413,431260,23839.0,531.0,1,Delhi,Graduate,Self-Employed,1,Approved
+IND1606,27,559810,381608,29216.0,627.0,4,Delhi,Not Graduate,Business Owner,1,Approved
+IND1607,49,464328,139343,20945.0,742.0,2,Chennai,Not Graduate,Salaried,1,Approved
+IND1608,38,291436,148565,8539.0,351.0,2,Chennai,Not Graduate,Salaried,1,Approved
+IND1609,26,189402,443181,35625.0,675.0,0,Delhi,Graduate,Business Owner,0,Approved
+IND1610,52,491501,204716,6886.0,562.0,3,Kolkata,Graduate,Salaried,1,Approved
+IND1611,26,273155,378091,9485.0,566.0,0,Delhi,Not Graduate,Salaried,1,Approved
+IND1612,59,925277,90037,33455.0,658.0,1,Chennai,Graduate,Salaried,0,Approved
+IND1613,24,2124470,528579,18767.0,616.0,1,Bangalore,Graduate,Self-Employed,1,Approved
+IND1614,44,678421,360232,30453.0,623.0,2,Pune,Graduate,Salaried,1,Approved
+IND1615,58,157936,643635,,862.0,3,Pune,Not Graduate,Salaried,1,Approved
+IND1616,58,256256,85498,39102.0,720.0,4,Mumbai,Graduate,Salaried,1,Approved
+IND1617,31,166213,274744,14226.0,345.0,3,Pune,Not Graduate,Salaried,1,Approved
+IND1618,31,540514,278523,29869.0,899.0,1,Chennai,Graduate,Business Owner,0,Approved
+IND1619,40,699592,159030,24588.0,568.0,4,Chennai,Graduate,Freelancer,0,Approved
+IND1620,38,1159722,203337,15440.0,680.0,3,Mumbai,Graduate,Self-Employed,1,Rejected
+IND1621,42,350624,59680,33709.0,417.0,3,Chennai,Graduate,Salaried,0,Rejected
+IND1622,35,1046574,392467,24495.0,865.0,4,Pune,Graduate,Freelancer,0,Approved
+IND1623,30,961136,249250,39019.0,415.0,1,Delhi,Graduate,Self-Employed,1,Approved
+IND1624,22,272618,64868,2922.0,559.0,3,Kolkata,Graduate,Salaried,1,Approved
+IND1625,34,932719,335449,29526.0,374.0,4,Mumbai,Not Graduate,Freelancer,0,Approved
+IND1626,25,308431,207206,9957.0,779.0,1,Mumbai,Not Graduate,Business Owner,1,Rejected
+IND1627,22,260884,58767,35998.0,604.0,4,Bangalore,Not Graduate,Self-Employed,1,Rejected
+IND1628,53,538872,923391,26031.0,306.0,4,Bangalore,Graduate,Self-Employed,0,Approved
+IND1629,55,279225,794532,12006.0,665.0,3,Hyderabad,Graduate,Salaried,1,Approved
+IND1630,49,517926,229822,39701.0,822.0,1,Mumbai,Graduate,Salaried,1,Approved
+IND1631,52,496470,74588,27939.0,647.0,3,Kolkata,Not Graduate,Self-Employed,1,Approved
+IND1632,29,451530,401238,22324.0,737.0,0,Mumbai,Not Graduate,Salaried,1,Rejected
+IND1633,47,311485,219284,24867.0,514.0,0,Mumbai,Not Graduate,Salaried,0,Rejected
+IND1634,55,438071,140044,2203.0,728.0,1,Mumbai,Graduate,Business Owner,1,Approved
+IND1635,24,483017,219032,18544.0,797.0,4,Bangalore,Graduate,Business Owner,0,Approved
+IND1636,33,435587,234768,17899.0,839.0,3,Pune,Graduate,Salaried,1,Approved
+IND1637,22,355096,256790,31063.0,666.0,3,Hyderabad,Graduate,Business Owner,1,Approved
+IND1638,26,125910,195501,27344.0,612.0,1,Chennai,Graduate,Business Owner,1,Rejected
+IND1639,51,473782,282695,5748.0,837.0,1,Mumbai,Not Graduate,Self-Employed,0,Approved
+IND1640,51,193782,677509,3093.0,353.0,0,Bangalore,Graduate,Salaried,0,Approved
+IND1641,38,531532,162459,17228.0,840.0,2,Bangalore,Graduate,Salaried,0,Approved
+IND1642,44,689755,373398,22884.0,766.0,1,Bangalore,Graduate,Salaried,1,Rejected
+IND1643,36,397615,612148,27183.0,463.0,2,Mumbai,Not Graduate,Salaried,0,Approved
+IND1644,58,432672,202191,,633.0,1,Hyderabad,Graduate,Salaried,1,Rejected
+IND1645,42,1330299,196502,7710.0,846.0,4,Bangalore,Not Graduate,Salaried,0,Rejected
+IND1646,35,871364,280399,21259.0,647.0,4,Chennai,Not Graduate,Salaried,1,Rejected
+IND1647,23,1102464,273758,37959.0,572.0,0,Bangalore,Graduate,Freelancer,0,Approved
+IND1648,32,792301,460734,35457.0,713.0,0,Mumbai,Graduate,Salaried,1,Approved
+IND1649,59,166127,211796,22143.0,799.0,2,Hyderabad,Graduate,Self-Employed,1,Approved
+IND1650,55,184533,1438170,4103.0,,1,Mumbai,Graduate,Self-Employed,1,Approved
+IND1651,59,419145,65328,2365.0,378.0,3,Pune,Not Graduate,Salaried,1,Approved
+IND1652,55,232982,50793,18103.0,516.0,0,Bangalore,Not Graduate,Freelancer,1,Approved
+IND1653,39,379036,305550,34510.0,657.0,3,Mumbai,Graduate,Self-Employed,1,Approved
+IND1654,51,320591,138610,26476.0,806.0,3,Kolkata,Graduate,Salaried,0,Rejected
+IND1655,36,438882,118735,14742.0,858.0,1,Bangalore,Graduate,Business Owner,0,Approved
+IND1656,48,669549,143454,14391.0,480.0,2,Mumbai,Graduate,Salaried,1,Approved
+IND1657,55,622796,123944,38940.0,875.0,1,Bangalore,Graduate,Self-Employed,1,Approved
+IND1658,59,414617,57818,30901.0,545.0,0,Delhi,Graduate,Salaried,1,Approved
+IND1659,54,811273,939752,34001.0,543.0,3,Chennai,Graduate,Business Owner,0,Rejected
+IND1660,45,345453,112354,17623.0,805.0,1,Chennai,Not Graduate,Salaried,0,Approved
+IND1661,36,1028102,381092,4378.0,721.0,1,Kolkata,Graduate,Self-Employed,0,Rejected
+IND1662,51,149579,409498,23372.0,619.0,1,Bangalore,Graduate,Salaried,0,Approved
+IND1663,38,1357426,712176,37503.0,386.0,0,Bangalore,Graduate,Self-Employed,0,Approved
+IND1664,26,545328,57756,32746.0,516.0,2,Chennai,Not Graduate,Business Owner,0,Approved
+IND1665,50,311262,564025,29923.0,789.0,1,Mumbai,Graduate,Salaried,0,Approved
+IND1666,25,207837,237284,11867.0,818.0,0,Bangalore,Graduate,Self-Employed,1,Approved
+IND1667,31,380942,300287,35724.0,577.0,3,Bangalore,Graduate,Salaried,0,Approved
+IND1668,38,206545,308536,11306.0,468.0,4,Mumbai,Not Graduate,Business Owner,1,Approved
+IND1669,31,192767,478418,16908.0,629.0,0,Delhi,Graduate,Salaried,0,Approved
+IND1670,38,504255,151394,29081.0,740.0,4,Pune,Not Graduate,Business Owner,1,Approved
+IND1671,41,416166,380174,39228.0,690.0,1,Pune,Not Graduate,Business Owner,1,Rejected
+IND1672,45,563581,238000,25386.0,795.0,1,Mumbai,Not Graduate,Salaried,0,Approved
+IND1673,26,1181458,444235,30302.0,680.0,0,Mumbai,Graduate,Salaried,1,Approved
+IND1674,55,423937,1215330,21212.0,605.0,4,Delhi,Graduate,Salaried,0,Approved
+IND1675,27,467888,105989,37618.0,812.0,1,Pune,Graduate,Business Owner,1,Rejected
+IND1676,23,157560,1357601,12698.0,487.0,3,Mumbai,Not Graduate,Salaried,0,Rejected
+IND1677,34,625823,73526,6594.0,,2,Hyderabad,Graduate,Self-Employed,1,Approved
+IND1678,32,324267,50580,27525.0,726.0,2,Mumbai,Graduate,Business Owner,1,Approved
+IND1679,44,1624154,61291,16282.0,801.0,1,Bangalore,Not Graduate,Salaried,0,Approved
+IND1680,37,813035,154554,16334.0,559.0,4,Delhi,Graduate,Self-Employed,1,Rejected
+IND1681,52,415660,300534,31179.0,812.0,1,Chennai,Graduate,Salaried,0,Rejected
+IND1682,32,172600,67881,8644.0,370.0,4,Mumbai,Graduate,Salaried,1,Rejected
+IND1683,37,904779,51420,37618.0,777.0,3,Hyderabad,Graduate,Business Owner,1,Approved
+IND1684,29,763337,741516,34933.0,477.0,4,Mumbai,Not Graduate,Salaried,1,Approved
+IND1685,25,201623,481389,35687.0,756.0,1,Hyderabad,Graduate,Salaried,0,Rejected
+IND1686,25,259980,464110,19375.0,488.0,3,Pune,Graduate,Business Owner,1,Approved
+IND1687,46,750802,589457,32926.0,590.0,0,Mumbai,Graduate,Salaried,1,Approved
+IND1688,24,201939,351021,38607.0,819.0,2,Pune,Not Graduate,Freelancer,0,Approved
+IND1689,53,1119208,77566,19642.0,591.0,1,Bangalore,Not Graduate,Freelancer,0,Rejected
+IND1690,24,341025,177331,25993.0,582.0,1,Mumbai,Graduate,Salaried,0,Approved
+IND1691,48,156424,371069,23188.0,843.0,1,Delhi,Graduate,Salaried,1,Approved
+IND1692,50,796581,132242,34596.0,676.0,3,Mumbai,Graduate,Self-Employed,0,Approved
+IND1693,53,307048,340712,29772.0,455.0,0,Hyderabad,Not Graduate,Salaried,1,Approved
+IND1694,40,419040,56200,32857.0,807.0,4,Chennai,Graduate,Salaried,0,Approved
+IND1695,42,167650,141370,12776.0,712.0,0,Mumbai,Not Graduate,Self-Employed,0,Approved
+IND1696,26,121034,249144,34835.0,827.0,3,Bangalore,Graduate,Salaried,1,Approved
+IND1697,39,526428,299979,11788.0,654.0,1,Chennai,Graduate,Business Owner,1,Approved
+IND1698,49,409587,265119,7660.0,858.0,2,Pune,Graduate,Salaried,1,Rejected
+IND1699,43,480106,349130,6478.0,486.0,1,Bangalore,Not Graduate,Salaried,1,Rejected
+IND1700,42,751454,51526,10210.0,330.0,4,Kolkata,Graduate,Salaried,1,Approved
+IND1701,27,536068,76601,12922.0,559.0,2,Bangalore,Not Graduate,Freelancer,0,Rejected
+IND1702,22,196838,558033,38289.0,720.0,1,Delhi,Graduate,Self-Employed,0,Approved
+IND1703,26,298997,336228,35340.0,828.0,2,Chennai,Graduate,Business Owner,1,Approved
+IND1704,33,1065321,79958,20642.0,850.0,0,Bangalore,Graduate,Salaried,1,Approved
+IND1705,47,707774,511407,13094.0,603.0,3,Bangalore,Not Graduate,Salaried,1,Approved
+IND1706,55,445346,119344,24423.0,338.0,1,Bangalore,Graduate,Salaried,0,Approved
+IND1707,35,238094,212646,35418.0,788.0,4,Chennai,Not Graduate,Salaried,0,Approved
+IND1708,47,263849,89220,7741.0,841.0,0,Chennai,Not Graduate,Self-Employed,0,Approved
+IND1709,48,646644,359563,8838.0,577.0,1,Delhi,Not Graduate,Self-Employed,1,Approved
+IND1710,30,881991,324793,5262.0,502.0,0,Delhi,Graduate,Salaried,1,Approved
+IND1711,47,565195,109282,6996.0,365.0,4,Bangalore,Not Graduate,Freelancer,1,Approved
+IND1712,43,783304,547675,24164.0,407.0,1,Bangalore,Not Graduate,Salaried,0,Approved
+IND1713,51,702096,178251,37595.0,567.0,4,Mumbai,Graduate,Freelancer,1,Approved
+IND1714,38,184868,136509,32257.0,521.0,2,Chennai,Graduate,Salaried,1,Approved
+IND1715,47,340620,91315,16211.0,829.0,4,Bangalore,Graduate,Salaried,0,Approved
+IND1716,57,186414,127368,32453.0,389.0,2,Delhi,Graduate,Salaried,1,Approved
+IND1717,22,227274,55568,7232.0,554.0,1,Mumbai,Graduate,Salaried,0,Approved
+IND1718,29,933816,268821,4217.0,754.0,2,Mumbai,Graduate,Self-Employed,0,Rejected
+IND1719,56,376139,511655,26229.0,552.0,1,Kolkata,Graduate,Salaried,1,Rejected
+IND1720,36,426595,249061,16232.0,556.0,1,Delhi,Graduate,Salaried,1,Rejected
+IND1721,43,198623,111882,27613.0,682.0,3,Mumbai,Graduate,Self-Employed,1,Approved
+IND1722,35,269744,58562,16026.0,741.0,1,Bangalore,Graduate,Self-Employed,1,Approved
+IND1723,47,224673,110399,30554.0,898.0,2,Delhi,Graduate,Business Owner,0,Rejected
+IND1724,49,212362,184515,32908.0,389.0,3,Mumbai,Graduate,Salaried,1,Approved
+IND1725,44,526401,406374,21610.0,689.0,3,Delhi,Graduate,Self-Employed,1,Approved
+IND1726,35,238761,102015,9031.0,881.0,1,Bangalore,Graduate,Self-Employed,1,Approved
+IND1727,45,519885,368055,27515.0,343.0,4,Bangalore,Graduate,Salaried,1,Approved
+IND1728,23,144093,554226,38484.0,897.0,4,Delhi,Not Graduate,Salaried,0,Rejected
+IND1729,47,181155,201259,38182.0,318.0,3,Delhi,Graduate,Salaried,0,Approved
+IND1730,35,248379,480696,2570.0,400.0,1,Kolkata,Not Graduate,Salaried,1,Approved
+IND1731,28,483574,252227,34254.0,656.0,4,Delhi,Graduate,Salaried,0,Approved
+IND1732,24,570608,303400,21288.0,841.0,1,Delhi,Graduate,Salaried,1,Approved
+IND1733,44,353872,236783,15288.0,332.0,1,Mumbai,Graduate,Self-Employed,0,Approved
+IND1734,39,356085,205519,31877.0,528.0,3,Bangalore,Graduate,Self-Employed,0,Approved
+IND1735,59,635691,116856,20889.0,823.0,3,Chennai,Not Graduate,Freelancer,0,Approved
+IND1736,56,126379,140312,2917.0,454.0,0,Mumbai,Graduate,Self-Employed,1,Approved
+IND1737,36,286867,135612,12066.0,722.0,4,Hyderabad,Graduate,Salaried,0,Approved
+IND1738,46,803056,257120,31504.0,545.0,4,Mumbai,Graduate,Business Owner,1,Approved
+IND1739,58,489748,81945,8982.0,704.0,4,Delhi,Graduate,Business Owner,1,Approved
+IND1740,49,284529,671602,20062.0,840.0,2,Chennai,Not Graduate,Salaried,0,Approved
+IND1741,31,1063767,368827,18999.0,460.0,1,Delhi,Not Graduate,Self-Employed,1,Approved
+IND1742,38,712457,178309,11941.0,416.0,3,Bangalore,Graduate,Freelancer,1,Rejected
+IND1743,43,243097,93179,25470.0,570.0,4,Mumbai,Graduate,Self-Employed,1,Rejected
+IND1744,47,534581,584251,23133.0,786.0,0,Hyderabad,Graduate,Freelancer,1,Approved
+IND1745,46,482289,484002,6529.0,471.0,4,Mumbai,Not Graduate,Salaried,0,Approved
+IND1746,38,325122,369783,19519.0,573.0,1,Pune,Graduate,Salaried,0,Approved
+IND1747,34,302886,129208,14192.0,558.0,1,Mumbai,Graduate,Salaried,1,Approved
+IND1748,41,288369,178727,10566.0,434.0,3,Pune,Not Graduate,Self-Employed,0,Approved
+IND1749,46,504050,77104,9226.0,721.0,2,Delhi,Graduate,Business Owner,1,Rejected
+IND1750,25,353652,102383,39930.0,720.0,3,Hyderabad,Graduate,Freelancer,1,Approved
+IND1751,31,833190,431983,23259.0,485.0,4,Delhi,Not Graduate,Salaried,0,Rejected
+IND1752,24,562983,363850,36087.0,663.0,0,Pune,Graduate,Salaried,1,Approved
+IND1753,39,148998,275034,3141.0,677.0,3,Mumbai,Graduate,Business Owner,0,Approved
+IND1754,57,528847,615185,6627.0,,2,Mumbai,Graduate,Self-Employed,0,Approved
+IND1755,43,246513,268827,4690.0,879.0,3,Bangalore,Graduate,Salaried,0,Approved
+IND1756,55,479392,207293,5255.0,495.0,1,Mumbai,Graduate,Salaried,1,Approved
+IND1757,29,575938,154019,7213.0,397.0,4,Mumbai,Not Graduate,Self-Employed,0,Approved
+IND1758,40,224976,755228,38876.0,321.0,4,Kolkata,Graduate,Business Owner,1,Approved
+IND1759,58,364154,71584,21404.0,749.0,4,Kolkata,Not Graduate,Salaried,1,Approved
+IND1760,27,204448,718004,27380.0,471.0,4,Delhi,Not Graduate,Salaried,1,Approved
+IND1761,47,141503,488203,27520.0,682.0,4,Pune,Graduate,Freelancer,1,Approved
+IND1762,55,310232,84795,21173.0,433.0,4,Bangalore,Graduate,Self-Employed,1,Approved
+IND1763,27,300359,258093,25989.0,725.0,0,Delhi,Graduate,Salaried,0,Approved
+IND1764,58,2279740,553503,26519.0,324.0,2,Hyderabad,Not Graduate,Salaried,1,Approved
+IND1765,54,356490,262046,24439.0,802.0,4,Hyderabad,Not Graduate,Self-Employed,1,Approved
+IND1766,43,282327,644326,13413.0,484.0,2,Kolkata,Graduate,Salaried,1,Approved
+IND1767,42,467452,766105,16995.0,384.0,4,Delhi,Not Graduate,Salaried,1,Approved
+IND1768,27,157182,187211,25559.0,866.0,3,Hyderabad,Graduate,Self-Employed,1,Approved
+IND1769,27,1424564,168428,25513.0,443.0,4,Mumbai,Not Graduate,Salaried,1,Approved
+IND1770,25,523099,738475,7021.0,711.0,1,Mumbai,Graduate,Self-Employed,1,Approved
+IND1771,51,682334,331090,34464.0,523.0,0,Mumbai,Graduate,Salaried,1,Rejected
+IND1772,32,194762,80830,23119.0,,3,Kolkata,Not Graduate,Self-Employed,1,Approved
+IND1773,51,330699,60803,31299.0,478.0,3,Chennai,Graduate,Salaried,0,Approved
+IND1774,52,339749,257889,27517.0,732.0,1,Chennai,Graduate,Salaried,1,Rejected
+IND1775,45,809953,715426,15117.0,564.0,4,Bangalore,Graduate,Salaried,1,Approved
+IND1776,30,120494,514873,24250.0,728.0,0,Delhi,Graduate,Freelancer,1,Rejected
+IND1777,24,263157,331635,20950.0,715.0,3,Mumbai,Graduate,Business Owner,1,Approved
+IND1778,52,1710334,87448,19359.0,752.0,0,Delhi,Not Graduate,Salaried,1,Approved
+IND1779,58,377656,123334,,496.0,3,Delhi,Graduate,Business Owner,0,Rejected
+IND1780,57,312847,570884,27530.0,853.0,4,Chennai,Graduate,Self-Employed,1,Approved
+IND1781,45,171055,100470,3262.0,352.0,3,Bangalore,Not Graduate,Freelancer,1,Approved
+IND1782,52,1582404,131584,24615.0,779.0,3,Mumbai,Graduate,Salaried,0,Approved
+IND1783,27,128091,84700,5327.0,742.0,2,Mumbai,Graduate,Self-Employed,1,Approved
+IND1784,23,654514,331836,31768.0,629.0,4,Mumbai,Not Graduate,Salaried,1,Approved
+IND1785,41,705442,770521,30850.0,550.0,1,Delhi,Not Graduate,Salaried,1,Approved
+IND1786,49,231703,128324,18848.0,422.0,1,Pune,Graduate,Freelancer,0,Approved
+IND1787,32,565358,211282,17160.0,686.0,4,Hyderabad,Not Graduate,Self-Employed,1,Approved
+IND1788,25,159013,301512,35998.0,638.0,1,Chennai,Graduate,Salaried,1,Approved
+IND1789,36,238849,1933894,29230.0,647.0,4,Bangalore,Not Graduate,Salaried,1,Approved
+IND1790,27,740282,77679,11076.0,328.0,1,Delhi,Graduate,Self-Employed,0,Approved
+IND1791,51,920063,222573,5805.0,334.0,2,Mumbai,Not Graduate,Self-Employed,1,Rejected
+IND1792,59,495094,171582,33085.0,817.0,1,Pune,Graduate,Salaried,1,Approved
+IND1793,23,402767,552143,16715.0,695.0,3,Chennai,Not Graduate,Freelancer,1,Approved
+IND1794,36,189410,211550,7750.0,593.0,4,Mumbai,Not Graduate,Salaried,1,Approved
+IND1795,32,146075,79408,15232.0,888.0,0,Bangalore,Not Graduate,Salaried,0,Approved
+IND1796,29,170066,301570,37903.0,648.0,0,Bangalore,Graduate,Freelancer,1,Approved
+IND1797,47,223175,418268,8953.0,446.0,4,Bangalore,Graduate,Salaried,1,Rejected
+IND1798,26,287222,50721,34093.0,366.0,2,Kolkata,Graduate,Salaried,1,Approved
+IND1799,27,311801,539672,27500.0,819.0,1,Bangalore,Not Graduate,Self-Employed,1,Rejected
+IND1800,47,290056,101455,24418.0,421.0,2,Bangalore,Graduate,Business Owner,1,Approved
+IND1801,25,229277,250779,36314.0,639.0,0,Mumbai,Not Graduate,Salaried,0,Approved
+IND1802,40,405114,184376,24449.0,474.0,4,Mumbai,Not Graduate,Freelancer,1,Approved
+IND1803,41,817842,367932,19478.0,896.0,4,Mumbai,Graduate,Business Owner,0,Approved
+IND1804,54,251236,165970,37179.0,750.0,2,Mumbai,Not Graduate,Salaried,0,Approved
+IND1805,41,1261602,559600,27338.0,856.0,2,Hyderabad,Graduate,Self-Employed,1,Approved
+IND1806,33,946489,377793,28899.0,435.0,1,Hyderabad,Graduate,Salaried,1,Approved
+IND1807,22,190582,310827,6145.0,315.0,3,Mumbai,Graduate,Salaried,1,Rejected
+IND1808,47,737227,447703,34101.0,632.0,3,Chennai,Graduate,Business Owner,1,Rejected
+IND1809,35,461878,400629,4775.0,494.0,1,Mumbai,Not Graduate,Freelancer,1,Approved
+IND1810,59,454414,59150,33647.0,795.0,3,Delhi,Graduate,Salaried,1,Approved
+IND1811,58,318402,175521,21539.0,308.0,0,Mumbai,Graduate,Salaried,1,Approved
+IND1812,32,398182,717714,38738.0,633.0,3,Delhi,Not Graduate,Salaried,0,Approved
+IND1813,57,322453,83589,28616.0,632.0,1,Delhi,Not Graduate,Salaried,1,Rejected
+IND1814,34,430379,383992,16119.0,626.0,3,Bangalore,Graduate,Salaried,1,Approved
+IND1815,24,515490,968170,27159.0,314.0,4,Delhi,Not Graduate,Salaried,1,Approved
+IND1816,54,568716,63402,39099.0,525.0,2,Kolkata,Graduate,Self-Employed,0,Approved
+IND1817,27,424126,336578,12295.0,724.0,0,Mumbai,Graduate,Salaried,0,Approved
+IND1818,31,631222,207850,36710.0,707.0,4,Mumbai,Graduate,Salaried,0,Approved
+IND1819,26,180924,266384,26685.0,412.0,4,Mumbai,Graduate,Business Owner,0,Approved
+IND1820,44,215293,72301,,727.0,1,Bangalore,Not Graduate,Business Owner,1,Approved
+IND1821,31,803118,60989,35629.0,300.0,2,Mumbai,Graduate,Salaried,0,Approved
+IND1822,23,275754,324803,19033.0,565.0,2,Chennai,Not Graduate,Salaried,0,Approved
+IND1823,34,129263,483338,38902.0,790.0,0,Bangalore,Graduate,Self-Employed,0,Approved
+IND1824,23,186795,430832,17408.0,507.0,1,Bangalore,Graduate,Salaried,0,Approved
+IND1825,41,221242,246209,19420.0,668.0,0,Bangalore,Not Graduate,Salaried,0,Approved
+IND1826,22,1381637,76303,18351.0,605.0,3,Mumbai,Not Graduate,Self-Employed,1,Approved
+IND1827,58,460427,341223,6131.0,311.0,4,Mumbai,Graduate,Salaried,1,Approved
+IND1828,30,1199620,119231,13349.0,644.0,0,Delhi,Graduate,Salaried,0,Approved
+IND1829,38,462420,654972,14453.0,764.0,4,Bangalore,Graduate,Salaried,1,Approved
+IND1830,30,381074,505449,20814.0,793.0,1,Mumbai,Graduate,Salaried,1,Approved
+IND1831,32,270592,358937,20263.0,667.0,3,Mumbai,Not Graduate,Salaried,0,Approved
+IND1832,36,492938,793228,14158.0,,1,Kolkata,Not Graduate,Freelancer,1,Approved
+IND1833,45,179956,57981,17735.0,470.0,3,Mumbai,Graduate,Salaried,1,Approved
+IND1834,59,1034140,383141,17830.0,433.0,3,Chennai,Not Graduate,Salaried,1,Approved
+IND1835,56,827215,150209,25926.0,726.0,4,Chennai,Graduate,Salaried,1,Rejected
+IND1836,51,272815,641290,36779.0,324.0,1,Delhi,Graduate,Freelancer,0,Rejected
+IND1837,52,1341323,127541,5373.0,829.0,1,Mumbai,Graduate,Self-Employed,1,Approved
+IND1838,26,817646,372615,12335.0,489.0,0,Mumbai,Graduate,Salaried,1,Approved
+IND1839,35,559013,575211,,440.0,1,Hyderabad,Graduate,Business Owner,1,Approved
+IND1840,32,171935,60637,12692.0,854.0,0,Hyderabad,Graduate,Salaried,0,Approved
+IND1841,30,380214,176728,36057.0,614.0,2,Chennai,Graduate,Salaried,1,Approved
+IND1842,55,402175,409195,3447.0,743.0,2,Pune,Graduate,Salaried,1,Rejected
+IND1843,33,225873,201705,21583.0,618.0,2,Hyderabad,Not Graduate,Salaried,1,Approved
+IND1844,56,153337,127738,24765.0,740.0,1,Mumbai,Graduate,Salaried,0,Rejected
+IND1845,56,719737,112052,25906.0,391.0,1,Mumbai,Graduate,Self-Employed,1,Approved
+IND1846,22,172059,85252,21567.0,478.0,0,Chennai,Not Graduate,Salaried,1,Approved
+IND1847,43,480847,536454,16139.0,355.0,3,Mumbai,Not Graduate,Self-Employed,1,Approved
+IND1848,50,1222366,264125,21520.0,454.0,0,Mumbai,Not Graduate,Salaried,1,Approved
+IND1849,29,955328,69864,21702.0,410.0,2,Hyderabad,Graduate,Salaried,1,Approved
+IND1850,32,250155,170551,27566.0,436.0,0,Delhi,Graduate,Salaried,1,Approved
+IND1851,58,882729,164611,9657.0,531.0,3,Pune,Graduate,Freelancer,1,Approved
+IND1852,35,120133,100143,39688.0,767.0,1,Hyderabad,Graduate,Salaried,1,Approved
+IND1853,51,127138,192957,32134.0,,0,Mumbai,Not Graduate,Self-Employed,1,Approved
+IND1854,56,489077,150903,12345.0,367.0,2,Kolkata,Graduate,Salaried,0,Approved
+IND1855,42,301525,154563,29413.0,548.0,2,Delhi,Graduate,Salaried,1,Approved
+IND1856,58,315404,385834,7208.0,622.0,1,Delhi,Graduate,Salaried,1,Approved
+IND1857,26,452450,113163,35455.0,817.0,0,Delhi,Graduate,Salaried,1,Approved
+IND1858,40,205169,306707,30018.0,731.0,3,Mumbai,Not Graduate,Salaried,1,Approved
+IND1859,35,215178,261370,10080.0,786.0,1,Bangalore,Graduate,Salaried,1,Rejected
+IND1860,47,385126,259885,,728.0,0,Mumbai,Graduate,Business Owner,1,Approved
+IND1861,25,681381,321923,11486.0,568.0,4,Delhi,Graduate,Salaried,0,Approved
+IND1862,46,506505,248729,23158.0,836.0,2,Delhi,Graduate,Self-Employed,1,Approved
+IND1863,46,261161,578518,37871.0,447.0,3,Chennai,Graduate,Salaried,0,Rejected
+IND1864,39,345084,331429,37208.0,417.0,3,Chennai,Graduate,Self-Employed,0,Approved
+IND1865,29,194852,247945,22519.0,666.0,3,Mumbai,Graduate,Self-Employed,1,Approved
+IND1866,35,151024,492641,33379.0,365.0,2,Delhi,Not Graduate,Salaried,1,Approved
+IND1867,53,730583,282944,30378.0,669.0,0,Delhi,Not Graduate,Salaried,1,Approved
+IND1868,59,243364,136025,16031.0,474.0,1,Mumbai,Not Graduate,Self-Employed,0,Approved
+IND1869,54,198292,108012,16536.0,887.0,0,Chennai,Not Graduate,Business Owner,0,Approved
+IND1870,44,590566,91315,2446.0,794.0,1,Hyderabad,Graduate,Salaried,1,Approved
+IND1871,36,504987,624288,38683.0,413.0,3,Mumbai,Graduate,Salaried,1,Rejected
+IND1872,54,521164,359585,19618.0,410.0,0,Delhi,Graduate,Business Owner,0,Approved
+IND1873,46,223972,742661,8587.0,,3,Mumbai,Not Graduate,Salaried,1,Approved
+IND1874,38,225922,281138,33480.0,,4,Bangalore,Not Graduate,Self-Employed,1,Approved
+IND1875,54,219796,210328,34994.0,334.0,3,Mumbai,Not Graduate,Salaried,1,Approved
+IND1876,23,196344,65393,22527.0,608.0,3,Kolkata,Graduate,Salaried,1,Approved
+IND1877,35,546524,328412,25569.0,837.0,1,Chennai,Not Graduate,Self-Employed,0,Approved
+IND1878,27,873591,268193,,313.0,4,Delhi,Graduate,Self-Employed,1,Approved
+IND1879,27,635402,1206570,7558.0,673.0,3,Bangalore,Graduate,Salaried,1,Approved
+IND1880,24,748266,118332,34954.0,856.0,3,Pune,Graduate,Salaried,0,Approved
+IND1881,28,327542,239148,37303.0,727.0,4,Bangalore,Graduate,Business Owner,1,Rejected
+IND1882,29,544614,313140,36700.0,532.0,4,Mumbai,Graduate,Self-Employed,1,Approved
+IND1883,36,294928,308621,29500.0,862.0,0,Delhi,Graduate,Salaried,1,Approved
+IND1884,50,418201,255981,4032.0,739.0,1,Chennai,Graduate,Self-Employed,0,Approved
+IND1885,54,382830,425065,3252.0,801.0,4,Hyderabad,Graduate,Self-Employed,0,Approved
+IND1886,51,197864,107347,7509.0,574.0,4,Hyderabad,Not Graduate,Business Owner,0,Approved
+IND1887,48,315807,373316,39842.0,375.0,2,Pune,Not Graduate,Self-Employed,1,Rejected
+IND1888,57,1447724,291721,15900.0,738.0,4,Pune,Graduate,Salaried,1,Approved
+IND1889,50,234316,616021,16523.0,588.0,1,Pune,Not Graduate,Self-Employed,0,Approved
+IND1890,59,177457,519647,3881.0,839.0,3,Mumbai,Not Graduate,Self-Employed,1,Approved
+IND1891,54,336913,144637,35037.0,552.0,3,Bangalore,Graduate,Salaried,1,Approved
+IND1892,58,744902,130822,3630.0,425.0,3,Hyderabad,Graduate,Salaried,1,Approved
+IND1893,48,469051,1049576,22789.0,476.0,3,Chennai,Graduate,Salaried,1,Approved
+IND1894,54,576994,237305,24523.0,336.0,2,Bangalore,Graduate,Self-Employed,1,Rejected
+IND1895,25,204137,642237,19958.0,709.0,4,Mumbai,Not Graduate,Salaried,1,Approved
+IND1896,43,505927,94746,3695.0,426.0,3,Chennai,Not Graduate,Self-Employed,1,Approved
+IND1897,23,276329,307378,16821.0,782.0,0,Hyderabad,Graduate,Freelancer,0,Rejected
+IND1898,31,839038,464998,5262.0,467.0,3,Mumbai,Not Graduate,Business Owner,0,Approved
+IND1899,26,516943,786237,3445.0,891.0,4,Bangalore,Not Graduate,Freelancer,0,Approved
+IND1900,31,208685,152873,18436.0,593.0,3,Mumbai,Not Graduate,Freelancer,1,Approved
+IND1901,54,146719,372728,11949.0,642.0,2,Delhi,Graduate,Salaried,0,Approved
+IND1902,59,137427,243487,25963.0,609.0,1,Mumbai,Not Graduate,Self-Employed,0,Approved
+IND1903,34,305709,65636,31932.0,827.0,1,Delhi,Graduate,Salaried,1,Rejected
+IND1904,52,243617,342795,8901.0,839.0,4,Bangalore,Graduate,Business Owner,0,Approved
+IND1905,57,535485,342873,35487.0,718.0,1,Bangalore,Graduate,Salaried,0,Approved
+IND1906,45,396726,716991,10597.0,743.0,1,Hyderabad,Graduate,Freelancer,0,Approved
+IND1907,36,243709,221946,8855.0,857.0,0,Chennai,Not Graduate,Self-Employed,1,Rejected
+IND1908,50,184649,115422,20678.0,535.0,4,Mumbai,Graduate,Business Owner,0,Approved
+IND1909,29,174419,61396,10263.0,738.0,4,Mumbai,Graduate,Salaried,1,Approved
+IND1910,26,919987,184310,27805.0,513.0,1,Pune,Graduate,Salaried,1,Approved
+IND1911,50,231609,139854,28143.0,384.0,1,Mumbai,Not Graduate,Business Owner,1,Approved
+IND1912,25,541888,407915,13874.0,384.0,1,Kolkata,Graduate,Salaried,1,Rejected
+IND1913,33,785739,159342,29529.0,788.0,2,Chennai,Not Graduate,Business Owner,1,Rejected
+IND1914,23,500851,794331,22866.0,364.0,3,Bangalore,Graduate,Salaried,0,Approved
+IND1915,48,905204,869591,16079.0,363.0,2,Kolkata,Graduate,Self-Employed,0,Approved
+IND1916,52,319291,292494,9243.0,642.0,4,Mumbai,Graduate,Salaried,0,Approved
+IND1917,57,1371451,710075,31872.0,651.0,0,Delhi,Graduate,Self-Employed,0,Approved
+IND1918,57,177153,407670,11018.0,457.0,3,Hyderabad,Graduate,Self-Employed,0,Approved
+IND1919,47,163100,247888,14100.0,888.0,0,Delhi,Graduate,Salaried,0,Approved
+IND1920,48,549988,99706,,790.0,4,Pune,Not Graduate,Salaried,1,Approved
+IND1921,26,1264698,203398,28910.0,762.0,4,Mumbai,Graduate,Salaried,1,Rejected
+IND1922,41,781948,255742,31437.0,524.0,0,Bangalore,Graduate,Self-Employed,0,Approved
+IND1923,32,151797,548704,39588.0,612.0,0,Bangalore,Graduate,Self-Employed,1,Rejected
+IND1924,31,251050,214123,13001.0,765.0,0,Hyderabad,Not Graduate,Self-Employed,0,Approved
+IND1925,59,1185530,619899,21942.0,387.0,4,Delhi,Graduate,Self-Employed,0,Approved
+IND1926,27,236707,330482,22862.0,,1,Delhi,Graduate,Salaried,1,Rejected
+IND1927,29,727784,86834,13669.0,734.0,0,Chennai,Not Graduate,Salaried,0,Approved
+IND1928,44,817489,1373649,17916.0,434.0,3,Mumbai,Graduate,Salaried,0,Approved
+IND1929,47,393637,237287,12878.0,349.0,4,Chennai,Graduate,Salaried,1,Approved
+IND1930,33,315331,174336,4985.0,731.0,2,Bangalore,Graduate,Freelancer,1,Approved
+IND1931,47,359225,319051,34369.0,639.0,2,Chennai,Graduate,Business Owner,1,Rejected
+IND1932,34,222972,78822,10112.0,646.0,3,Hyderabad,Graduate,Salaried,0,Rejected
+IND1933,39,1000701,303020,20931.0,646.0,1,Mumbai,Graduate,Self-Employed,1,Approved
+IND1934,46,359585,222406,29340.0,544.0,0,Bangalore,Graduate,Business Owner,1,Approved
+IND1935,54,976388,180502,2336.0,408.0,4,Pune,Graduate,Salaried,1,Approved
+IND1936,33,164682,814508,21363.0,,0,Delhi,Graduate,Salaried,1,Approved
+IND1937,57,1898422,234818,5968.0,389.0,4,Kolkata,Not Graduate,Salaried,1,Approved
+IND1938,25,354272,111832,35678.0,595.0,2,Bangalore,Not Graduate,Self-Employed,0,Approved
+IND1939,26,139605,203567,18279.0,411.0,0,Mumbai,Not Graduate,Freelancer,1,Approved
+IND1940,58,135505,679525,5129.0,888.0,3,Delhi,Graduate,Self-Employed,1,Approved
+IND1941,29,668494,98425,7850.0,476.0,1,Kolkata,Graduate,Salaried,1,Approved
+IND1942,49,550390,110185,22588.0,642.0,3,Delhi,Graduate,Salaried,1,Approved
+IND1943,52,768059,53278,13949.0,400.0,1,Pune,Graduate,Business Owner,1,Approved
+IND1944,30,164536,53572,10519.0,700.0,0,Pune,Not Graduate,Business Owner,1,Rejected
+IND1945,50,134487,492096,28375.0,327.0,0,Delhi,Graduate,Self-Employed,1,Rejected
+IND1946,35,404181,379306,35082.0,836.0,1,Mumbai,Graduate,Self-Employed,1,Approved
+IND1947,43,316144,159642,13737.0,357.0,2,Hyderabad,Graduate,Salaried,1,Approved
+IND1948,32,367919,349589,3134.0,797.0,4,Delhi,Graduate,Business Owner,0,Rejected
+IND1949,44,2031257,175716,12938.0,596.0,3,Chennai,Graduate,Business Owner,0,Rejected
+IND1950,22,1532749,813853,26486.0,433.0,3,Delhi,Graduate,Salaried,1,Rejected
+IND1951,58,1261105,903211,28096.0,630.0,3,Bangalore,Graduate,Self-Employed,1,Approved
+IND1952,42,732699,174721,7592.0,548.0,0,Chennai,Not Graduate,Salaried,1,Rejected
+IND1953,47,295303,531417,20108.0,849.0,3,Delhi,Graduate,Salaried,1,Approved
+IND1954,57,332500,420799,19270.0,374.0,4,Delhi,Not Graduate,Salaried,0,Approved
+IND1955,44,439061,142765,29649.0,467.0,4,Delhi,Not Graduate,Salaried,0,Rejected
+IND1956,22,830042,116004,12997.0,802.0,1,Delhi,Graduate,Salaried,1,Approved
+IND1957,36,148475,203230,35489.0,654.0,0,Bangalore,Not Graduate,Salaried,0,Rejected
+IND1958,42,340865,430069,,524.0,4,Chennai,Graduate,Self-Employed,0,Approved
+IND1959,30,154492,855769,2870.0,830.0,2,Delhi,Not Graduate,Salaried,0,Rejected
+IND1960,30,409160,410535,30684.0,445.0,0,Bangalore,Graduate,Salaried,0,Approved
+IND1961,31,1036661,533112,36524.0,540.0,0,Hyderabad,Graduate,Salaried,1,Rejected
+IND1962,47,730194,280995,32957.0,643.0,4,Delhi,Graduate,Self-Employed,0,Approved
+IND1963,56,223426,501071,35885.0,334.0,2,Delhi,Graduate,Salaried,1,Approved
+IND1964,46,1611728,433606,37596.0,300.0,1,Pune,Not Graduate,Salaried,0,Approved
+IND1965,47,560266,168296,31866.0,452.0,4,Hyderabad,Graduate,Business Owner,1,Approved
+IND1966,32,124192,250735,32676.0,728.0,2,Bangalore,Not Graduate,Self-Employed,0,Approved
+IND1967,59,237970,458372,15878.0,807.0,0,Hyderabad,Graduate,Business Owner,1,Approved
+IND1968,23,240827,61787,29559.0,425.0,2,Mumbai,Not Graduate,Salaried,1,Approved
+IND1969,28,148707,462668,8771.0,790.0,0,Bangalore,Graduate,Salaried,0,Approved
+IND1970,39,1405819,98969,18526.0,781.0,4,Bangalore,Graduate,Self-Employed,1,Approved
+IND1971,48,380230,230738,31896.0,644.0,4,Bangalore,Graduate,Salaried,1,Rejected
+IND1972,55,1024633,462923,33923.0,520.0,3,Delhi,Not Graduate,Salaried,1,Approved
+IND1973,48,275570,123197,38203.0,324.0,3,Mumbai,Graduate,Salaried,0,Approved
+IND1974,38,173519,120526,14852.0,827.0,3,Mumbai,Graduate,Business Owner,1,Approved
+IND1975,45,377237,178860,3848.0,481.0,4,Kolkata,Graduate,Salaried,1,Approved
+IND1976,46,168395,612599,33027.0,798.0,1,Delhi,Not Graduate,Freelancer,0,Approved
+IND1977,28,386224,50110,37464.0,341.0,4,Bangalore,Graduate,Business Owner,0,Approved
+IND1978,27,1131780,629128,36485.0,780.0,2,Mumbai,Graduate,Salaried,1,Rejected
+IND1979,45,414228,91751,21456.0,738.0,4,Mumbai,Graduate,Self-Employed,1,Approved
+IND1980,54,503365,1203461,11259.0,701.0,4,Hyderabad,Not Graduate,Self-Employed,1,Approved
+IND1981,50,188143,824424,37554.0,845.0,0,Bangalore,Not Graduate,Business Owner,1,Approved
+IND1982,43,137888,220638,,644.0,0,Bangalore,Graduate,Salaried,1,Approved
+IND1983,47,166976,229729,5791.0,344.0,0,Mumbai,Graduate,Business Owner,0,Approved
+IND1984,49,485050,214227,27864.0,320.0,4,Hyderabad,Graduate,Salaried,0,Approved
+IND1985,42,159933,302268,38639.0,369.0,1,Mumbai,Graduate,Freelancer,1,Approved
+IND1986,28,308637,73776,36574.0,347.0,2,Mumbai,Graduate,Salaried,1,Approved
+IND1987,38,439484,58290,19888.0,790.0,2,Bangalore,Not Graduate,Salaried,0,Approved
+IND1988,41,316836,64858,21692.0,850.0,1,Delhi,Graduate,Business Owner,1,Rejected
+IND1989,41,191499,196911,25501.0,586.0,1,Mumbai,Not Graduate,Business Owner,1,Approved
+IND1990,43,247967,130584,15304.0,309.0,2,Hyderabad,Graduate,Self-Employed,1,Approved
+IND1991,49,1174203,293241,29527.0,841.0,3,Hyderabad,Not Graduate,Salaried,1,Approved
+IND1992,28,570782,1271296,20074.0,573.0,0,Chennai,Graduate,Salaried,1,Approved
+IND1993,22,394109,172071,17549.0,899.0,0,Delhi,Graduate,Freelancer,0,Rejected
+IND1994,53,125118,263235,31963.0,680.0,2,Mumbai,Graduate,Business Owner,1,Approved
+IND1995,34,2072654,184294,27920.0,628.0,1,Delhi,Graduate,Business Owner,1,Approved
+IND1996,51,565232,519773,32826.0,778.0,3,Kolkata,Graduate,Salaried,1,Rejected
+IND1997,44,272458,631300,38071.0,314.0,2,Bangalore,Not Graduate,Salaried,1,Approved
+IND1998,40,965675,574616,18061.0,815.0,0,Hyderabad,Not Graduate,Self-Employed,1,Approved
+IND1999,53,239595,966019,,490.0,4,Mumbai,Graduate,Business Owner,0,Approved
